@@ -1,0 +1,7581 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 7
+/Kids [ 4 0 R 13 0 R 18 0 R 23 0 R 28 0 R 33 0 R 38 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.28
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+/F3-0 11 0 R
+/F4 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 2161
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 8 Tf 9.6 TL ET
+.4 .4 .4 rg
+BT 1 0 0 1 39.68504 22.67717 Tm (Excel Formula Master Handbook) Tj T* ET
+BT 1 0 0 1 530.2386 22.67717 Tm (Page 1) Tj T* ET
+Q
+q
+1 0 0 1 45.68504 714 cm
+Q
+q
+1 0 0 1 45.68504 683 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 6 Tm /F2 25 Tf 31 TL 131.8028 0 Td (MICROSOFT EXCEL) Tj T* -131.8028 0 Td ET
+Q
+Q
+q
+1 0 0 1 45.68504 640 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 6 Tm /F2 25 Tf 31 TL 94.29026 0 Td (Formula Master Handbook) Tj T* -94.29026 0 Td ET
+Q
+Q
+q
+1 0 0 1 45.68504 610 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 6 Tm /F1 12 Tf 18 TL 65.58676 0 Td (Basic to Advanced \177 Examples \177 Classroom Teaching \177 Office Practice) Tj T* -65.58676 0 Td ET
+Q
+Q
+q
+1 0 0 1 45.68504 577.3228 cm
+Q
+q
+1 0 0 1 108.6732 574.8228 cm
+q
+1.5 w
+1 J
+.356863 .607843 .835294 RG
+n 0 0 m 377.9291 0 l S
+Q
+Q
+q
+1 0 0 1 45.68504 545.4764 cm
+Q
+q
+1 0 0 1 45.68504 527.4764 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 6 Tm /F2 12 Tf 18 TL 100.9088 0 Td (Designed for computer-course teachers and learners) Tj T* -100.9088 0 Td ET
+Q
+Q
+q
+1 0 0 1 45.68504 481.4764 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 24 Tm /F1 12 Tf 18 TL 36.53476 0 Td (Includes formula syntax, practical examples, teaching notes, common errors, and) Tj T* 139.056 0 Td (practice-workbook guidance.) Tj T* -175.5908 0 Td ET
+Q
+Q
+q
+1 0 0 1 45.68504 420.4528 cm
+Q
+q
+1 0 0 1 45.68504 376.4528 cm
+q
+.356863 .607843 .835294 RG
+.6 w
+.917647 .94902 .972549 rg
+n -7 -7 517.9055 53 re B*
+Q
+q
+BT 1 0 0 1 0 30 Tm 13 TL /F2 9 Tf 0 0 0 rg (Version note:) Tj /F1 9 Tf ( Excel functions vary by version. Dynamic-array functions such as XLOOKUP, FILTER, TEXTSPLIT and) Tj T* (LAMBDA require compatible modern Excel versions. Formula examples use English function names and comma separators;) Tj T* (regional settings may use semicolons.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.55 0.55 0.55 rg
+/gRLs0 gs
+BT
+/F2-0 16 Tf
+19.2 TL
+ET
+BT
+1 0 0 1 279.8538 30 Tm
+(Arav) Tj
+T*
+ET
+Q
+q
+0.333333 0.333333 0.333333 rg
+BT
+/F3-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 533.0436 14 Tm
+(by arav) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Symbol
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+12 0 obj
+<<
+/BaseFont /ZapfDingbats
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+13 0 obj
+<<
+/Contents 14 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.28
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 15 0 R
+/F2 8 0 R
+/F2-0 16 0 R
+/F3 10 0 R
+/F3-0 17 0 R
+/F4 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+14 0 obj
+<<
+/Length 17021
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 8 Tf 9.6 TL ET
+.4 .4 .4 rg
+BT 1 0 0 1 39.68504 22.67717 Tm (Excel Formula Master Handbook) Tj T* ET
+BT 1 0 0 1 530.2386 22.67717 Tm (Page 2) Tj T* ET
+Q
+q
+1 0 0 1 45.68504 773.3701 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (How to Use This Handbook) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 754.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.2 Tf 11 TL (1. Teach formula operators and cell references first.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 737.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.2 Tf 11 TL (2. Demonstrate each formula with sample data and ask students to predict the result.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 720.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.2 Tf 11 TL (3. Let students type formulas into the practice workbook rather than memorizing names only.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 703.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.2 Tf 11 TL (4. Teach error diagnosis before using IFERROR to hide an error.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 686.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 8.2 Tf 11 TL (5. For modern functions, confirm the classroom computers support the function.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 666.3701 cm
+q
+.184314 .333333 .592157 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Formula versus function) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 638.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.8 Tm /F1 8.2 Tf 11 TL (A formula is an expression beginning with =, such as =A2+B2. A function is a predefined calculation such as =SUM\(A2:A6\). Functions can) Tj T* (be combined into larger formulas.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 618.3701 cm
+q
+.184314 .333333 .592157 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Reference types) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.02362 529.3701 cm
+q
+.090196 .211765 .364706 rg
+n 0 85 493.2283 -17 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 72 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Type) Tj T* ET
+Q
+Q
+q
+1 0 0 1 95.70866 72 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Example) Tj T* ET
+Q
+Q
+q
+1 0 0 1 180.748 72 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (What happens when copied?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 55 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Relative) Tj T* ET
+Q
+Q
+q
+1 0 0 1 95.70866 55 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (A2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 180.748 55 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Row and column can change) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 38 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Absolute) Tj T* ET
+Q
+Q
+q
+1 0 0 1 95.70866 38 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL ($A$2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 180.748 38 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Row and column stay fixed) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Mixed column) Tj T* ET
+Q
+Q
+q
+1 0 0 1 95.70866 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL ($A2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 180.748 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Column A stays fixed) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Mixed row) Tj T* ET
+Q
+Q
+q
+1 0 0 1 95.70866 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (A$2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 180.748 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Row 2 stays fixed) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.705882 .776471 .905882 RG
+.35 w
+n 0 85 m 493.2283 85 l S
+n 0 0 m 493.2283 0 l S
+n 0 0 m 0 85 l S
+n 493.2283 0 m 493.2283 85 l S
+n 0 68 m 493.2283 68 l S
+n 0 51 m 493.2283 51 l S
+n 0 34 m 493.2283 34 l S
+n 0 17 m 493.2283 17 l S
+n 90.70866 0 m 90.70866 85 l S
+n 175.748 0 m 175.748 85 l S
+Q
+Q
+Q
+q
+1 0 0 1 45.68504 512.3622 cm
+Q
+q
+1 0 0 1 45.68504 484.3622 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (1. Excel Formula Basics) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 266.3622 cm
+q
+.184314 .333333 .592157 rg
+n 0 210 493.2283 -15 re f*
+1 1 1 rg
+n 0 195 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 180 493.2283 -15 re f*
+1 1 1 rg
+n 0 165 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 150 493.2283 -15 re f*
+1 1 1 rg
+n 0 135 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 120 493.2283 -15 re f*
+1 1 1 rg
+n 0 105 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 90 493.2283 -15 re f*
+1 1 1 rg
+n 0 75 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 60 493.2283 -15 re f*
+1 1 1 rg
+n 0 45 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 30 493.2283 -15 re f*
+1 1 1 rg
+n 0 15 493.2283 -15 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 198 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Function / operation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 198 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Example formula) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 198 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Use) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 198 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Example / note) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Addition) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=A2+B2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Adds two values) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (A2=10, B2=5 ) Tj /F3 7.1 Tf 9 TL (\256) Tj /F1 7.1 Tf 9 TL ( 15) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 168 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Subtraction) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 168 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=A2-B2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 168 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Subtracts B2 from A2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 168 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (10 and 5 ) Tj /F3 7.1 Tf 9 TL (\256) Tj /F1 7.1 Tf 9 TL ( 5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 153 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Multiplication) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 153 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=A2*B2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 153 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Multiplies two values) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 153 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (10 and 5 ) Tj /F3 7.1 Tf 9 TL (\256) Tj /F1 7.1 Tf 9 TL ( 50) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 138 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Division) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 138 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=A2/B2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 138 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Divides A2 by B2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 138 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (10 and 5 ) Tj /F3 7.1 Tf 9 TL (\256) Tj /F1 7.1 Tf 9 TL ( 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Power) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=A2^3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Raises A2 to a power) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (A2=2 ) Tj /F3 7.1 Tf 9 TL (\256) Tj /F1 7.1 Tf 9 TL ( 8) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 108 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (SUM) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 108 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=SUM\(B2:B6\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 108 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Adds a range) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 108 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Marks 50,60,70,80,90 ) Tj /F3 7.1 Tf 9 TL (\256) Tj /F1 7.1 Tf 9 TL ( 350) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (PRODUCT) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=PRODUCT\(A2:A4\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Multiplies all numbers in a range) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (2,3,4 ) Tj /F3 7.1 Tf 9 TL (\256) Tj /F1 7.1 Tf 9 TL ( 24) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 78 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (ABS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 78 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=ABS\(-25\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 78 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Returns absolute value) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 78 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (25) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (SQRT) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=SQRT\(81\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Square root) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (9) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (MOD) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=MOD\(17,5\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Remainder after division) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (ROUND) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=ROUND\(12.345,2\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Rounds to chosen decimal places) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (12.35) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (ROUNDUP) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=ROUNDUP\(12.341,2\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Rounds away from zero) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (12.35) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (ROUNDDOWN) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=ROUNDDOWN\(12.349,2\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Rounds toward zero) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (12.34) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.780392 .827451 .890196 RG
+.3 w
+n 0 210 m 493.2283 210 l S
+n 0 0 m 493.2283 0 l S
+n 0 0 m 0 210 l S
+n 493.2283 0 m 493.2283 210 l S
+n 0 195 m 493.2283 195 l S
+n 0 180 m 493.2283 180 l S
+n 0 165 m 493.2283 165 l S
+n 0 150 m 493.2283 150 l S
+n 0 135 m 493.2283 135 l S
+n 0 120 m 493.2283 120 l S
+n 0 105 m 493.2283 105 l S
+n 0 90 m 493.2283 90 l S
+n 0 75 m 493.2283 75 l S
+n 0 60 m 493.2283 60 l S
+n 0 45 m 493.2283 45 l S
+n 0 30 m 493.2283 30 l S
+n 0 15 m 493.2283 15 l S
+n 82.20472 0 m 82.20472 210 l S
+n 235.2756 0 m 235.2756 210 l S
+n 357.1654 0 m 357.1654 210 l S
+Q
+Q
+Q
+q
+1 0 0 1 45.68504 255.0236 cm
+Q
+q
+1 0 0 1 45.68504 227.0236 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (2. Statistics and Counting) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 54.02362 cm
+q
+.184314 .333333 .592157 rg
+n 0 165 493.2283 -15 re f*
+1 1 1 rg
+n 0 150 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 135 493.2283 -15 re f*
+1 1 1 rg
+n 0 120 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 105 493.2283 -15 re f*
+1 1 1 rg
+n 0 90 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 75 493.2283 -15 re f*
+1 1 1 rg
+n 0 60 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 45 493.2283 -15 re f*
+1 1 1 rg
+n 0 30 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 15 493.2283 -15 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 153 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Function / operation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 153 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Example formula) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 153 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Use) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 153 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Example / note) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 138 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (AVERAGE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 138 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=AVERAGE\(B2:B6\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 138 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Arithmetic mean) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 138 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (50,60,70,80,90 ) Tj /F3 7.1 Tf 9 TL (\256) Tj /F1 7.1 Tf 9 TL ( 70) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (MAX) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=MAX\(B2:B6\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Largest number) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (90) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 108 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (MIN) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 108 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=MIN\(B2:B6\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 108 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Smallest number) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 108 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (50) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (COUNT) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=COUNT\(A2:A6\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Counts numeric cells) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Counts numbers only) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 78 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (COUNTA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 78 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=COUNTA\(A2:A6\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 78 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Counts non-empty cells) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 78 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Counts text and numbers) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (COUNTBLANK) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=COUNTBLANK\(A2:A6\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Counts blank cells) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Counts empty cells) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (MEDIAN) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=MEDIAN\(B2:B6\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Middle value) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (50,60,70,80,90 ) Tj /F3 7.1 Tf 9 TL (\256) Tj /F1 7.1 Tf 9 TL ( 70) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (MODE.SNGL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=MODE.SNGL\(B2:B8\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Most frequently occurring value) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Returns #N/A if no value repeats) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (LARGE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=LARGE\(B2:B6,2\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Nth largest value) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Second largest ) Tj /F3 7.1 Tf 9 TL (\256) Tj /F1 7.1 Tf 9 TL ( 80) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (SMALL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=SMALL\(B2:B6,2\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Nth smallest value) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Second smallest ) Tj /F3 7.1 Tf 9 TL (\256) Tj /F1 7.1 Tf 9 TL ( 60) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.780392 .827451 .890196 RG
+.3 w
+n 0 165 m 493.2283 165 l S
+n 0 0 m 0 165 l S
+n 493.2283 0 m 493.2283 165 l S
+n 0 0 m 493.2283 0 l S
+n 0 150 m 493.2283 150 l S
+n 0 135 m 493.2283 135 l S
+n 0 120 m 493.2283 120 l S
+n 0 105 m 493.2283 105 l S
+n 0 90 m 493.2283 90 l S
+n 0 75 m 493.2283 75 l S
+n 0 60 m 493.2283 60 l S
+n 0 45 m 493.2283 45 l S
+n 0 30 m 493.2283 30 l S
+n 0 15 m 493.2283 15 l S
+n 82.20472 0 m 82.20472 165 l S
+n 235.2756 0 m 235.2756 165 l S
+n 357.1654 0 m 357.1654 165 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.55 0.55 0.55 rg
+/gRLs0 gs
+BT
+/F2-0 16 Tf
+19.2 TL
+ET
+BT
+1 0 0 1 279.8538 30 Tm
+(Arav) Tj
+T*
+ET
+Q
+q
+0.333333 0.333333 0.333333 rg
+BT
+/F3-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 533.0436 14 Tm
+(by arav) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+15 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+16 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+17 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+18 0 obj
+<<
+/Contents 19 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.28
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 20 0 R
+/F2 8 0 R
+/F2-0 21 0 R
+/F3 10 0 R
+/F3-0 22 0 R
+/F4 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+19 0 obj
+<<
+/Length 21459
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 8 Tf 9.6 TL ET
+.4 .4 .4 rg
+BT 1 0 0 1 39.68504 22.67717 Tm (Excel Formula Master Handbook) Tj T* ET
+BT 1 0 0 1 530.2386 22.67717 Tm (Page 3) Tj T* ET
+Q
+q
+1 0 0 1 45.68504 679.3701 cm
+q
+.184314 .333333 .592157 rg
+n 0 114 493.2283 -15 re f*
+1 1 1 rg
+n 0 99 493.2283 -24 re f*
+.956863 .968627 .984314 rg
+n 0 75 493.2283 -15 re f*
+1 1 1 rg
+n 0 60 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 45 493.2283 -15 re f*
+1 1 1 rg
+n 0 30 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 15 493.2283 -15 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 102 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Function / operation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 102 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Example formula) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 102 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Use) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 102 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Example / note) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 87 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (RANK.EQ) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 87 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=RANK.EQ\(B2,$B$2:$B$6,0\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 78 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 10.9 Tm /F1 7.1 Tf 9 TL (Ranks a value; 0 means) Tj T* (descending) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 87 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Largest value ranks 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (STDEV.S) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=STDEV.S\(B2:B6\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Sample standard deviation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (For a sample) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (STDEV.P) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=STDEV.P\(B2:B6\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Population standard deviation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (For a whole population) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (VAR.S) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=VAR.S\(B2:B6\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Sample variance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (For a sample) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (VAR.P) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=VAR.P\(B2:B6\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Population variance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (For a whole population) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (CORREL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=CORREL\(B2:B6,C2:C6\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Correlation of two data sets) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Result between -1 and 1) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.780392 .827451 .890196 RG
+.3 w
+n 0 114 m 493.2283 114 l S
+n 0 99 m 0 114 l S
+n 0 0 m 0 99 l S
+n 493.2283 99 m 493.2283 114 l S
+n 493.2283 0 m 493.2283 99 l S
+n 0 0 m 493.2283 0 l S
+n 0 99 m 493.2283 99 l S
+n 82.20472 99 m 82.20472 114 l S
+n 235.2756 99 m 235.2756 114 l S
+n 357.1654 99 m 357.1654 114 l S
+n 0 75 m 493.2283 75 l S
+n 0 60 m 493.2283 60 l S
+n 0 45 m 493.2283 45 l S
+n 0 30 m 493.2283 30 l S
+n 0 15 m 493.2283 15 l S
+n 82.20472 0 m 82.20472 99 l S
+n 235.2756 0 m 235.2756 99 l S
+n 357.1654 0 m 357.1654 99 l S
+Q
+Q
+Q
+q
+1 0 0 1 45.68504 668.0315 cm
+Q
+q
+1 0 0 1 45.68504 640.0315 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (3. Logical and Error Handling) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 401.0315 cm
+q
+.184314 .333333 .592157 rg
+n 0 231 493.2283 -15 re f*
+1 1 1 rg
+n 0 216 493.2283 -24 re f*
+.956863 .968627 .984314 rg
+n 0 192 493.2283 -24 re f*
+1 1 1 rg
+n 0 168 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 153 493.2283 -24 re f*
+1 1 1 rg
+n 0 129 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 114 493.2283 -15 re f*
+1 1 1 rg
+n 0 99 493.2283 -24 re f*
+.956863 .968627 .984314 rg
+n 0 75 493.2283 -15 re f*
+1 1 1 rg
+n 0 60 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 45 493.2283 -15 re f*
+1 1 1 rg
+n 0 30 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 15 493.2283 -15 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 219 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Function / operation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 219 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Example formula) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 219 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Use) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 219 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Example / note) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 204 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (IF) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 204 cm
+q
+BT 1 0 0 1 0 1.9 Tm 9 TL /F1 7.1 Tf 0 0 0 rg (=IF\(B2) Tj (>) Tj (=33,"Pass","Fail"\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 10.9 Tm /F1 7.1 Tf 9 TL (Returns one result if true and) Tj T* (another if false) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 204 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (75 ) Tj /F3 7.1 Tf 9 TL (\256) Tj /F1 7.1 Tf 9 TL ( Pass) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 180 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (IFS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 171 cm
+q
+BT 1 0 0 1 0 10.9 Tm 9 TL /F1 7.1 Tf 0 0 0 rg (=IFS\(B2) Tj (>) Tj (=90,"A+",B2) Tj (>) Tj (=75,"A",B2) Tj (>) Tj (=60,"B",B) Tj  T* (2) Tj (>) Tj (=33,"C",TRUE,"Fail"\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 180 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Tests multiple conditions in order) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 180 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (80 ) Tj /F3 7.1 Tf 9 TL (\256) Tj /F1 7.1 Tf 9 TL ( A) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 156 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (AND) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 156 cm
+q
+BT 1 0 0 1 0 1.9 Tm 9 TL /F1 7.1 Tf 0 0 0 rg (=AND\(B2) Tj (>) Tj (=33,C2) Tj (>) Tj (=75%\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 156 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (TRUE only if all conditions are true) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 156 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Pass marks and attendance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 141 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (OR) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 141 cm
+q
+BT 1 0 0 1 0 1.9 Tm 9 TL /F1 7.1 Tf 0 0 0 rg (=OR\(B2) Tj (>) Tj (=90,C2) Tj (>) Tj (=95%\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 132 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 10.9 Tm /F1 7.1 Tf 9 TL (TRUE if at least one condition is) Tj T* (true) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 141 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Either criterion qualifies) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 117 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (NOT) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 117 cm
+q
+BT 1 0 0 1 0 1.9 Tm 9 TL /F1 7.1 Tf 0 0 0 rg (=NOT\(B2) Tj (>) Tj (50\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 117 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Reverses TRUE/FALSE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 117 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (B2=40 ) Tj /F3 7.1 Tf 9 TL (\256) Tj /F1 7.1 Tf 9 TL ( TRUE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 102 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (IFERROR) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 102 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=IFERROR\(A2/B2,"Check data"\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 102 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Handles any formula error) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 102 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Shows message on error) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 87 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (IFNA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 78 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 10.9 Tm /F1 7.1 Tf 9 TL (=IFNA\(XLOOKUP\(E2,A2:A10,B2:B10\),"Not) Tj T* (found"\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 87 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Handles #N/A) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 87 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Useful for lookups) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (SWITCH) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=SWITCH\(A2,1,"One",2,"Two","Other"\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Matches a value to alternatives) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (2 ) Tj /F3 7.1 Tf 9 TL (\256) Tj /F1 7.1 Tf 9 TL ( Two) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (ISBLANK) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=ISBLANK\(A2\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Checks if cell is blank) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (TRUE for empty cell) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (ISNUMBER) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=ISNUMBER\(A2\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Checks whether value is numeric) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (TRUE for 25) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (ISTEXT) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=ISTEXT\(A2\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Checks whether value is text) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (TRUE for Amit) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (ISERROR) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=ISERROR\(A2\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Checks for any error) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (TRUE if A2 is an error) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.780392 .827451 .890196 RG
+.3 w
+n 0 231 m 493.2283 231 l S
+n 0 0 m 493.2283 0 l S
+n 0 0 m 0 231 l S
+n 493.2283 0 m 493.2283 231 l S
+n 0 216 m 493.2283 216 l S
+n 0 192 m 493.2283 192 l S
+n 0 168 m 493.2283 168 l S
+n 0 153 m 493.2283 153 l S
+n 0 129 m 493.2283 129 l S
+n 0 114 m 493.2283 114 l S
+n 0 99 m 493.2283 99 l S
+n 0 75 m 493.2283 75 l S
+n 0 60 m 493.2283 60 l S
+n 0 45 m 493.2283 45 l S
+n 0 30 m 493.2283 30 l S
+n 0 15 m 493.2283 15 l S
+n 82.20472 0 m 82.20472 231 l S
+n 235.2756 0 m 235.2756 231 l S
+n 357.1654 0 m 357.1654 231 l S
+Q
+Q
+Q
+q
+1 0 0 1 45.68504 389.6929 cm
+Q
+q
+1 0 0 1 45.68504 361.6929 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (4. Text Functions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 59.69291 cm
+q
+.184314 .333333 .592157 rg
+n 0 294 493.2283 -15 re f*
+1 1 1 rg
+n 0 279 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 264 493.2283 -15 re f*
+1 1 1 rg
+n 0 249 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 234 493.2283 -15 re f*
+1 1 1 rg
+n 0 219 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 204 493.2283 -24 re f*
+1 1 1 rg
+n 0 180 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 165 493.2283 -15 re f*
+1 1 1 rg
+n 0 150 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 135 493.2283 -15 re f*
+1 1 1 rg
+n 0 120 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 105 493.2283 -15 re f*
+1 1 1 rg
+n 0 90 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 75 493.2283 -15 re f*
+1 1 1 rg
+n 0 60 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 45 493.2283 -15 re f*
+1 1 1 rg
+n 0 30 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 15 493.2283 -15 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 282 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Function / operation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 282 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Example formula) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 282 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Use) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 282 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Example / note) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 267 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (LEFT) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 267 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=LEFT\(A2,4\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 267 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Returns leftmost characters) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 267 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Amit Sharma ) Tj /F3 7.1 Tf 9 TL (\256) Tj /F1 7.1 Tf 9 TL ( Amit) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 252 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (RIGHT) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 252 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=RIGHT\(A2,6\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 252 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Returns rightmost characters) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 252 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Returns last 6 characters) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 237 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (MID) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 237 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=MID\(A2,6,6\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 237 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Returns text from a position) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 237 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Start at character 6, take 6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 222 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (LEN) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 222 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=LEN\(A2\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 222 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Counts characters including spaces) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 222 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Length of text) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 207 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (TRIM) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 207 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=TRIM\(A2\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 207 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Removes extra ordinary spaces) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 207 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Cleans leading/trailing/repeated spaces) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 192 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (CLEAN) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 192 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=CLEAN\(A2\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 10.9 Tm /F1 7.1 Tf 9 TL (Removes many nonprinting) Tj T* (characters) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 192 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Useful for imported text) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 168 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (UPPER) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 168 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=UPPER\(A2\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 168 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Converts to uppercase) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 168 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (amit ) Tj /F3 7.1 Tf 9 TL (\256) Tj /F1 7.1 Tf 9 TL ( AMIT) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 153 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (LOWER) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 153 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=LOWER\(A2\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 153 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Converts to lowercase) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 153 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (AMIT ) Tj /F3 7.1 Tf 9 TL (\256) Tj /F1 7.1 Tf 9 TL ( amit) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 138 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (PROPER) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 138 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=PROPER\(A2\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 138 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Capitalizes each word) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 138 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (amit kumar ) Tj /F3 7.1 Tf 9 TL (\256) Tj /F1 7.1 Tf 9 TL ( Amit Kumar) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (CONCAT) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=CONCAT\(A2," ",B2\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Joins text) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Amit + Sharma ) Tj /F3 7.1 Tf 9 TL (\256) Tj /F1 7.1 Tf 9 TL ( Amit Sharma) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 108 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (TEXTJOIN) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 108 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=TEXTJOIN\(" ",TRUE,A2:B2\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 108 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Joins text using a delimiter) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 108 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Ignores empty cells when TRUE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (FIND) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=FIND\("@",A2\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Finds text position; case-sensitive) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Returns position) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 78 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (SEARCH) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 78 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=SEARCH\("excel",A2\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 78 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Finds text position; case-insensitive) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 78 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Returns position) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (SUBSTITUTE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=SUBSTITUTE\(A2,"old","new"\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Replaces matching text) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Replaces occurrences) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (REPLACE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=REPLACE\(A2,1,4,"Ravi"\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Replaces by character position) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Changes first 4 characters) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (EXACT) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=EXACT\(A2,B2\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Checks exact text match) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Case-sensitive) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (REPT) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=REPT\("*",5\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Repeats text) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (*****) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (TEXT) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=TEXT\(A2,") Tj /F4 7.1 Tf 9 TL (n) Tj /F1 7.1 Tf 9 TL (#,##0.00"\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Formats a number as text) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Currency-style text) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.780392 .827451 .890196 RG
+.3 w
+n 0 294 m 493.2283 294 l S
+n 0 0 m 0 294 l S
+n 493.2283 0 m 493.2283 294 l S
+n 0 0 m 493.2283 0 l S
+n 0 279 m 493.2283 279 l S
+n 0 264 m 493.2283 264 l S
+n 0 249 m 493.2283 249 l S
+n 0 234 m 493.2283 234 l S
+n 0 219 m 493.2283 219 l S
+n 0 204 m 493.2283 204 l S
+n 0 180 m 493.2283 180 l S
+n 0 165 m 493.2283 165 l S
+n 0 150 m 493.2283 150 l S
+n 0 135 m 493.2283 135 l S
+n 0 120 m 493.2283 120 l S
+n 0 105 m 493.2283 105 l S
+n 0 90 m 493.2283 90 l S
+n 0 75 m 493.2283 75 l S
+n 0 60 m 493.2283 60 l S
+n 0 45 m 493.2283 45 l S
+n 0 30 m 493.2283 30 l S
+n 0 15 m 493.2283 15 l S
+n 82.20472 0 m 82.20472 294 l S
+n 235.2756 0 m 235.2756 294 l S
+n 357.1654 0 m 357.1654 294 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.55 0.55 0.55 rg
+/gRLs0 gs
+BT
+/F2-0 16 Tf
+19.2 TL
+ET
+BT
+1 0 0 1 279.8538 30 Tm
+(Arav) Tj
+T*
+ET
+Q
+q
+0.333333 0.333333 0.333333 rg
+BT
+/F3-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 533.0436 14 Tm
+(by arav) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+20 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+21 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+22 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+23 0 obj
+<<
+/Contents 24 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.28
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 25 0 R
+/F2 8 0 R
+/F2-0 26 0 R
+/F3 10 0 R
+/F3-0 27 0 R
+/F4 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+24 0 obj
+<<
+/Length 20212
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 8 Tf 9.6 TL ET
+.4 .4 .4 rg
+BT 1 0 0 1 39.68504 22.67717 Tm (Excel Formula Master Handbook) Tj T* ET
+BT 1 0 0 1 530.2386 22.67717 Tm (Page 4) Tj T* ET
+Q
+q
+1 0 0 1 45.68504 718.3701 cm
+q
+.184314 .333333 .592157 rg
+n 0 75 493.2283 -15 re f*
+1 1 1 rg
+n 0 60 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 45 493.2283 -15 re f*
+1 1 1 rg
+n 0 30 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 15 493.2283 -15 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 63 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Function / operation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 63 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Example formula) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 63 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Use) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 63 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Example / note) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (VALUE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=VALUE\("125"\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Converts numeric text to number) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (125) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (TEXTBEFORE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=TEXTBEFORE\(A2," "\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Text before delimiter) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Modern Excel) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (TEXTAFTER) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=TEXTAFTER\(A2," "\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Text after delimiter) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Modern Excel) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (TEXTSPLIT) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=TEXTSPLIT\(A2," "\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Splits text across cells) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Modern Excel) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.780392 .827451 .890196 RG
+.3 w
+n 0 75 m 493.2283 75 l S
+n 0 60 m 0 75 l S
+n 0 0 m 0 60 l S
+n 493.2283 60 m 493.2283 75 l S
+n 493.2283 0 m 493.2283 60 l S
+n 0 0 m 493.2283 0 l S
+n 0 60 m 493.2283 60 l S
+n 82.20472 60 m 82.20472 75 l S
+n 235.2756 60 m 235.2756 75 l S
+n 357.1654 60 m 357.1654 75 l S
+n 0 45 m 493.2283 45 l S
+n 0 30 m 493.2283 30 l S
+n 0 15 m 493.2283 15 l S
+n 82.20472 0 m 82.20472 60 l S
+n 235.2756 0 m 235.2756 60 l S
+n 357.1654 0 m 357.1654 60 l S
+Q
+Q
+Q
+q
+1 0 0 1 45.68504 707.0315 cm
+Q
+q
+1 0 0 1 45.68504 679.0315 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (5. Date and Time) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 401.0315 cm
+q
+.184314 .333333 .592157 rg
+n 0 270 493.2283 -15 re f*
+1 1 1 rg
+n 0 255 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 240 493.2283 -15 re f*
+1 1 1 rg
+n 0 225 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 210 493.2283 -15 re f*
+1 1 1 rg
+n 0 195 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 180 493.2283 -15 re f*
+1 1 1 rg
+n 0 165 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 150 493.2283 -15 re f*
+1 1 1 rg
+n 0 135 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 120 493.2283 -15 re f*
+1 1 1 rg
+n 0 105 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 90 493.2283 -15 re f*
+1 1 1 rg
+n 0 75 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 60 493.2283 -15 re f*
+1 1 1 rg
+n 0 45 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 30 493.2283 -15 re f*
+1 1 1 rg
+n 0 15 493.2283 -15 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 258 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Function / operation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 258 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Example formula) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 258 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Use) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 258 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Example / note) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 243 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (TODAY) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 243 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=TODAY\(\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 243 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Current date) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 243 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Updates when workbook recalculates) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 228 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (NOW) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 228 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=NOW\(\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 228 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Current date and time) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 228 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Volatile function) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 213 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (DATE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 213 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=DATE\(2026,11,21\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 213 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Creates a date) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 213 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (21-Nov-2026) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 198 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (DAY) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 198 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=DAY\(A2\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 198 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Day number of date) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 198 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (1\22631) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (MONTH) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=MONTH\(A2\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Month number) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (1\22612) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 168 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (YEAR) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 168 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=YEAR\(A2\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 168 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Year number) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 168 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (2026) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 153 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (HOUR) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 153 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=HOUR\(A2\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 153 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Extracts hour) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 153 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (0\22623) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 138 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (MINUTE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 138 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=MINUTE\(A2\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 138 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Extracts minute) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 138 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (0\22659) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (WEEKDAY) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=WEEKDAY\(A2,2\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Monday=1 through Sunday=7) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Useful for schedules) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 108 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (ISOWEEKNUM) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 108 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=ISOWEEKNUM\(A2\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 108 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (ISO week number) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 108 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Week numbering) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (DAYS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=DAYS\(B2,A2\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Days between dates) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (End date minus start date) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 78 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (DATEDIF) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 78 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=DATEDIF\(A2,B2,"Y"\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 78 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Completed years between dates) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 78 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Age in years) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (EDATE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=EDATE\(A2,3\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Date 3 months later) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Useful for due dates) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (EOMONTH) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=EOMONTH\(A2,0\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Last day of month) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Month-end reporting) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (WORKDAY) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=WORKDAY\(A2,10\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Date after 10 working days) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Excludes weekends) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (NETWORKDAYS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=NETWORKDAYS\(A2,B2,H2:H10\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Working days between dates) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Can exclude holidays) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (YEARFRAC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=YEARFRAC\(A2,B2\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Fraction of year between dates) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Financial/date calculations) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.780392 .827451 .890196 RG
+.3 w
+n 0 270 m 493.2283 270 l S
+n 0 0 m 493.2283 0 l S
+n 0 0 m 0 270 l S
+n 493.2283 0 m 493.2283 270 l S
+n 0 255 m 493.2283 255 l S
+n 0 240 m 493.2283 240 l S
+n 0 225 m 493.2283 225 l S
+n 0 210 m 493.2283 210 l S
+n 0 195 m 493.2283 195 l S
+n 0 180 m 493.2283 180 l S
+n 0 165 m 493.2283 165 l S
+n 0 150 m 493.2283 150 l S
+n 0 135 m 493.2283 135 l S
+n 0 120 m 493.2283 120 l S
+n 0 105 m 493.2283 105 l S
+n 0 90 m 493.2283 90 l S
+n 0 75 m 493.2283 75 l S
+n 0 60 m 493.2283 60 l S
+n 0 45 m 493.2283 45 l S
+n 0 30 m 493.2283 30 l S
+n 0 15 m 493.2283 15 l S
+n 82.20472 0 m 82.20472 270 l S
+n 235.2756 0 m 235.2756 270 l S
+n 357.1654 0 m 357.1654 270 l S
+Q
+Q
+Q
+q
+1 0 0 1 45.68504 389.6929 cm
+Q
+q
+1 0 0 1 45.68504 361.6929 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (6. Conditional Aggregation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 206.6929 cm
+q
+.184314 .333333 .592157 rg
+n 0 147 493.2283 -15 re f*
+1 1 1 rg
+n 0 132 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 117 493.2283 -24 re f*
+1 1 1 rg
+n 0 93 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 78 493.2283 -15 re f*
+1 1 1 rg
+n 0 63 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 48 493.2283 -24 re f*
+1 1 1 rg
+n 0 24 493.2283 -24 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 135 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Function / operation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 135 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Example formula) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 135 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Use) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 135 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Example / note) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 120 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (SUMIF) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 120 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=SUMIF\(A2:A10,"Pen",C2:C10\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 120 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Sum based on one condition) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 120 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Total sales for Pen) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (SUMIFS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 96 cm
+q
+BT 1 0 0 1 0 10.9 Tm 9 TL /F1 7.1 Tf 0 0 0 rg (=SUMIFS\(C2:C10,A2:A10,"Pen",B2:B10,") Tj (>) Tj (=1) Tj  T* (0"\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Sum based on multiple conditions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 105 cm
+q
+BT 1 0 0 1 0 1.9 Tm 9 TL /F1 7.1 Tf 0 0 0 rg (Pen sales where quantity >) Tj (=10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 81 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (COUNTIF) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 81 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=COUNTIF\(A2:A10,"Pen"\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 81 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Count based on one condition) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 81 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Count Pen rows) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 66 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (COUNTIFS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 66 cm
+q
+BT 1 0 0 1 0 1.9 Tm 9 TL /F1 7.1 Tf 0 0 0 rg (=COUNTIFS\(A2:A10,"Pen",B2:B10,") Tj (>) Tj (=10"\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 66 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Count based on multiple conditions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 66 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Count matching rows) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (AVERAGEIF) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=AVERAGEIF\(A2:A10,"Pen",C2:C10\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Average based on one condition) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Average Pen sales) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (AVERAGEIFS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 27 cm
+q
+BT 1 0 0 1 0 10.9 Tm 9 TL /F1 7.1 Tf 0 0 0 rg (=AVERAGEIFS\(C2:C10,A2:A10,"Pen",B2:B1) Tj  T* (0,") Tj (>) Tj (=10"\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 10.9 Tm /F1 7.1 Tf 9 TL (Average based on multiple) Tj T* (conditions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Conditional average) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 12 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (SUMPRODUCT) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 12 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=SUMPRODUCT\(B2:B10,C2:C10\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 10.9 Tm /F1 7.1 Tf 9 TL (Multiplies matching positions and) Tj T* (sums) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 12 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Quantity \327 unit price total) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.780392 .827451 .890196 RG
+.3 w
+n 0 147 m 493.2283 147 l S
+n 0 0 m 493.2283 0 l S
+n 0 0 m 0 147 l S
+n 493.2283 0 m 493.2283 147 l S
+n 0 132 m 493.2283 132 l S
+n 0 117 m 493.2283 117 l S
+n 0 93 m 493.2283 93 l S
+n 0 78 m 493.2283 78 l S
+n 0 63 m 493.2283 63 l S
+n 0 48 m 493.2283 48 l S
+n 0 24 m 493.2283 24 l S
+n 82.20472 0 m 82.20472 147 l S
+n 235.2756 0 m 235.2756 147 l S
+n 357.1654 0 m 357.1654 147 l S
+Q
+Q
+Q
+q
+1 0 0 1 45.68504 195.3543 cm
+Q
+q
+1 0 0 1 45.68504 167.3543 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (7. Lookup and Reference) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 60.35433 cm
+q
+.184314 .333333 .592157 rg
+n 0 99 493.2283 -15 re f*
+1 1 1 rg
+n 0 84 493.2283 -24 re f*
+.956863 .968627 .984314 rg
+n 0 60 493.2283 -15 re f*
+1 1 1 rg
+n 0 45 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 30 493.2283 -15 re f*
+1 1 1 rg
+n 0 15 493.2283 -15 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 87 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Function / operation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 87 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Example formula) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 87 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Use) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 87 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Example / note) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 72 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (VLOOKUP) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 72 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=VLOOKUP\(E2,A2:C10,2,FALSE\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 10.9 Tm /F1 7.1 Tf 9 TL -0.030087 Tw (Looks down first column and returns) Tj T* 0 Tw (selected column) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 72 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Exact match) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (HLOOKUP) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=HLOOKUP\(B1,A1:D3,2,FALSE\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Looks across top row) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Horizontal lookup) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (XLOOKUP) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=XLOOKUP\(E2,A2:A10,B2:B10,"Not found"\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Flexible exact lookup) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Modern Excel) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (INDEX) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=INDEX\(B2:B10,3\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Returns item at position) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Third item) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (MATCH) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=MATCH\(E2,A2:A10,0\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Returns matching position) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (0 means exact match) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.780392 .827451 .890196 RG
+.3 w
+n 0 99 m 493.2283 99 l S
+n 0 0 m 0 99 l S
+n 493.2283 0 m 493.2283 99 l S
+n 0 0 m 493.2283 0 l S
+n 0 84 m 493.2283 84 l S
+n 0 60 m 493.2283 60 l S
+n 0 45 m 493.2283 45 l S
+n 0 30 m 493.2283 30 l S
+n 0 15 m 493.2283 15 l S
+n 82.20472 0 m 82.20472 99 l S
+n 235.2756 0 m 235.2756 99 l S
+n 357.1654 0 m 357.1654 99 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.55 0.55 0.55 rg
+/gRLs0 gs
+BT
+/F2-0 16 Tf
+19.2 TL
+ET
+BT
+1 0 0 1 279.8538 30 Tm
+(Arav) Tj
+T*
+ET
+Q
+q
+0.333333 0.333333 0.333333 rg
+BT
+/F3-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 533.0436 14 Tm
+(by arav) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+25 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+26 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+27 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+28 0 obj
+<<
+/Contents 29 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.28
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 30 0 R
+/F2 8 0 R
+/F2-0 31 0 R
+/F3 10 0 R
+/F3-0 32 0 R
+/F4 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+29 0 obj
+<<
+/Length 21114
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 8 Tf 9.6 TL ET
+.4 .4 .4 rg
+BT 1 0 0 1 39.68504 22.67717 Tm (Excel Formula Master Handbook) Tj T* ET
+BT 1 0 0 1 530.2386 22.67717 Tm (Page 5) Tj T* ET
+Q
+q
+1 0 0 1 45.68504 634.3701 cm
+q
+.184314 .333333 .592157 rg
+n 0 159 493.2283 -15 re f*
+1 1 1 rg
+n 0 144 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 129 493.2283 -15 re f*
+1 1 1 rg
+n 0 114 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 99 493.2283 -15 re f*
+1 1 1 rg
+n 0 84 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 69 493.2283 -15 re f*
+1 1 1 rg
+n 0 54 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 39 493.2283 -15 re f*
+1 1 1 rg
+n 0 24 493.2283 -24 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 147 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Function / operation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 147 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Example formula) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 147 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Use) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 147 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Example / note) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 132 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (XMATCH) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 132 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=XMATCH\(E2,A2:A10\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 132 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Modern position lookup) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 132 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Modern Excel) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 117 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (CHOOSE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 117 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=CHOOSE\(2,"Red","Blue","Green"\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 117 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Selects item by index) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 117 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Blue) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 102 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (ROW) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 102 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=ROW\(A5\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 102 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Row number) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 102 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 87 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (ROWS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 87 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=ROWS\(A1:A10\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 87 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Number of rows in range) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 87 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 72 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (COLUMN) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 72 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=COLUMN\(C5\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 72 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Column number) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 72 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (COLUMNS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=COLUMNS\(A1:D5\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Number of columns) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 42 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (TRANSPOSE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 42 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=TRANSPOSE\(A1:A3\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 42 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Changes row/column orientation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 42 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Spills in modern Excel) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (FORMULATEXT) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=FORMULATEXT\(B2\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Displays a formula as text) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Formula auditing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 12 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (HYPERLINK) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 10.9 Tm /F1 7.1 Tf 9 TL (=HYPERLINK\("https://www.microsoft.com","M) Tj T* (icrosoft"\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 12 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Creates a clickable link) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 12 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Web navigation) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.780392 .827451 .890196 RG
+.3 w
+n 0 159 m 493.2283 159 l S
+n 0 144 m 0 159 l S
+n 0 0 m 0 144 l S
+n 493.2283 144 m 493.2283 159 l S
+n 493.2283 0 m 493.2283 144 l S
+n 0 0 m 493.2283 0 l S
+n 0 144 m 493.2283 144 l S
+n 82.20472 144 m 82.20472 159 l S
+n 235.2756 144 m 235.2756 159 l S
+n 357.1654 144 m 357.1654 159 l S
+n 0 129 m 493.2283 129 l S
+n 0 114 m 493.2283 114 l S
+n 0 99 m 493.2283 99 l S
+n 0 84 m 493.2283 84 l S
+n 0 69 m 493.2283 69 l S
+n 0 54 m 493.2283 54 l S
+n 0 39 m 493.2283 39 l S
+n 0 24 m 493.2283 24 l S
+n 82.20472 0 m 82.20472 144 l S
+n 235.2756 0 m 235.2756 144 l S
+n 357.1654 0 m 357.1654 144 l S
+Q
+Q
+Q
+q
+1 0 0 1 45.68504 623.0315 cm
+Q
+q
+1 0 0 1 45.68504 595.0315 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (8. Dynamic Arrays) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 362.0315 cm
+q
+.184314 .333333 .592157 rg
+n 0 225 493.2283 -15 re f*
+1 1 1 rg
+n 0 210 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 195 493.2283 -15 re f*
+1 1 1 rg
+n 0 180 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 165 493.2283 -15 re f*
+1 1 1 rg
+n 0 150 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 135 493.2283 -15 re f*
+1 1 1 rg
+n 0 120 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 105 493.2283 -15 re f*
+1 1 1 rg
+n 0 90 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 75 493.2283 -15 re f*
+1 1 1 rg
+n 0 60 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 45 493.2283 -15 re f*
+1 1 1 rg
+n 0 30 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 15 493.2283 -15 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 213 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Function / operation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 213 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Example formula) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 213 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Use) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 213 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Example / note) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 198 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (FILTER) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 198 cm
+q
+BT 1 0 0 1 0 1.9 Tm 9 TL /F1 7.1 Tf 0 0 0 rg (=FILTER\(A2:C10,C2:C10) Tj (>) Tj (=60,"No results"\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 198 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Returns rows meeting criteria) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 198 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Modern Excel) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (SORT) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=SORT\(A2:A10\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Sorts an array) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Ascending by default) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 168 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (SORTBY) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 168 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=SORTBY\(A2:C10,C2:C10,-1\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 168 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Sorts by another range) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 168 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Highest marks first) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 153 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (UNIQUE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 153 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=UNIQUE\(A2:A10\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 153 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Returns distinct values) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 153 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Modern Excel) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 138 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (SEQUENCE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 138 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=SEQUENCE\(10\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 138 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Generates a sequence) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 138 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (1 through 10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (RANDARRAY) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=RANDARRAY\(5,2,1,100,TRUE\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Generates random array) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Recalculates) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 108 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (TAKE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 108 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=TAKE\(A2:C10,5\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 108 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Returns first rows/columns) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 108 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Modern Excel) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (DROP) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=DROP\(A2:C10,1\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Removes rows/columns from array) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Modern Excel) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 78 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (CHOOSECOLS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 78 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=CHOOSECOLS\(A2:D10,1,3\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 78 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Returns selected columns) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 78 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Modern Excel) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (CHOOSEROWS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=CHOOSEROWS\(A2:D10,1,3\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Returns selected rows) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Modern Excel) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (HSTACK) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=HSTACK\(A2:A5,C2:C5\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Combines arrays horizontally) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Modern Excel) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (VSTACK) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=VSTACK\(A2:C5,A7:C10\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Combines arrays vertically) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Modern Excel) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (TOCOL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=TOCOL\(A1:C3\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Converts array to one column) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Modern Excel) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (TOROW) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=TOROW\(A1:C3\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Converts array to one row) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Modern Excel) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.780392 .827451 .890196 RG
+.3 w
+n 0 225 m 493.2283 225 l S
+n 0 0 m 493.2283 0 l S
+n 0 0 m 0 225 l S
+n 493.2283 0 m 493.2283 225 l S
+n 0 210 m 493.2283 210 l S
+n 0 195 m 493.2283 195 l S
+n 0 180 m 493.2283 180 l S
+n 0 165 m 493.2283 165 l S
+n 0 150 m 493.2283 150 l S
+n 0 135 m 493.2283 135 l S
+n 0 120 m 493.2283 120 l S
+n 0 105 m 493.2283 105 l S
+n 0 90 m 493.2283 90 l S
+n 0 75 m 493.2283 75 l S
+n 0 60 m 493.2283 60 l S
+n 0 45 m 493.2283 45 l S
+n 0 30 m 493.2283 30 l S
+n 0 15 m 493.2283 15 l S
+n 82.20472 0 m 82.20472 225 l S
+n 235.2756 0 m 235.2756 225 l S
+n 357.1654 0 m 357.1654 225 l S
+Q
+Q
+Q
+q
+1 0 0 1 45.68504 350.6929 cm
+Q
+q
+1 0 0 1 45.68504 322.6929 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (9. Advanced Formula Building) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 194.6929 cm
+q
+.184314 .333333 .592157 rg
+n 0 120 493.2283 -15 re f*
+1 1 1 rg
+n 0 105 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 90 493.2283 -15 re f*
+1 1 1 rg
+n 0 75 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 60 493.2283 -15 re f*
+1 1 1 rg
+n 0 45 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 30 493.2283 -15 re f*
+1 1 1 rg
+n 0 15 493.2283 -15 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 108 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Function / operation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 108 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Example formula) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 108 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Use) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 108 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Example / note) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (LET) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=LET\(total,A1*B1,total+500\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Names intermediate calculations) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (A1=100,B1=20 ) Tj /F3 7.1 Tf 9 TL (\256) Tj /F1 7.1 Tf 9 TL ( 2500) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 78 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (LAMBDA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 78 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=LAMBDA\(x,x*x\)\(5\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 78 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Creates reusable custom function) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 78 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (25) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (MAP) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=MAP\(A2:A5,LAMBDA\(x,x*2\)\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Applies a function to each item) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Modern Excel) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (REDUCE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=REDUCE\(0,A2:A5,LAMBDA\(a,b,a+b\)\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Accumulates an array to one result) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Sum example) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (SCAN) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=SCAN\(0,A2:A5,LAMBDA\(a,b,a+b\)\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Returns running accumulation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Running totals) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (BYROW) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=BYROW\(A2:C5,LAMBDA\(r,SUM\(r\)\)\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Calculates per row) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Modern Excel) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (BYCOL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=BYCOL\(A2:C5,LAMBDA\(c,SUM\(c\)\)\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Calculates per column) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Modern Excel) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.780392 .827451 .890196 RG
+.3 w
+n 0 120 m 493.2283 120 l S
+n 0 0 m 493.2283 0 l S
+n 0 0 m 0 120 l S
+n 493.2283 0 m 493.2283 120 l S
+n 0 105 m 493.2283 105 l S
+n 0 90 m 493.2283 90 l S
+n 0 75 m 493.2283 75 l S
+n 0 60 m 493.2283 60 l S
+n 0 45 m 493.2283 45 l S
+n 0 30 m 493.2283 30 l S
+n 0 15 m 493.2283 15 l S
+n 82.20472 0 m 82.20472 120 l S
+n 235.2756 0 m 235.2756 120 l S
+n 357.1654 0 m 357.1654 120 l S
+Q
+Q
+Q
+q
+1 0 0 1 45.68504 183.3543 cm
+Q
+q
+1 0 0 1 45.68504 155.3543 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (10. Financial Functions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 57.35433 cm
+q
+.184314 .333333 .592157 rg
+n 0 90 493.2283 -15 re f*
+1 1 1 rg
+n 0 75 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 60 493.2283 -15 re f*
+1 1 1 rg
+n 0 45 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 30 493.2283 -15 re f*
+1 1 1 rg
+n 0 15 493.2283 -15 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 78 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Function / operation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 78 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Example formula) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 78 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Use) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 78 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Example / note) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (PMT) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=PMT\(12%/12,60,-500000\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Payment for a loan/investment) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Approx. ) Tj /F4 7.1 Tf 9 TL (n) Tj /F1 7.1 Tf 9 TL (11,122 monthly) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (PV) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=PV\(10%/12,60,-10000\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Present value) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Financial planning) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (FV) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=FV\(10%/12,60,-5000\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Future value) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Investment growth) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (NPER) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=NPER\(10%/12,-5000,200000\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Number of periods) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Loan/investment) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (RATE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=RATE\(60,-11122,500000\)*12) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Rate per period, annualized here) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Approximation) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.780392 .827451 .890196 RG
+.3 w
+n 0 90 m 493.2283 90 l S
+n 0 0 m 0 90 l S
+n 493.2283 0 m 493.2283 90 l S
+n 0 0 m 493.2283 0 l S
+n 0 75 m 493.2283 75 l S
+n 0 60 m 493.2283 60 l S
+n 0 45 m 493.2283 45 l S
+n 0 30 m 493.2283 30 l S
+n 0 15 m 493.2283 15 l S
+n 82.20472 0 m 82.20472 90 l S
+n 235.2756 0 m 235.2756 90 l S
+n 357.1654 0 m 357.1654 90 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.55 0.55 0.55 rg
+/gRLs0 gs
+BT
+/F2-0 16 Tf
+19.2 TL
+ET
+BT
+1 0 0 1 279.8538 30 Tm
+(Arav) Tj
+T*
+ET
+Q
+q
+0.333333 0.333333 0.333333 rg
+BT
+/F3-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 533.0436 14 Tm
+(by arav) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+30 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+31 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+32 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+33 0 obj
+<<
+/Contents 34 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.28
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 35 0 R
+/F2 8 0 R
+/F2-0 36 0 R
+/F3 10 0 R
+/F3-0 37 0 R
+/F4 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+34 0 obj
+<<
+/Length 17997
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 8 Tf 9.6 TL ET
+.4 .4 .4 rg
+BT 1 0 0 1 39.68504 22.67717 Tm (Excel Formula Master Handbook) Tj T* ET
+BT 1 0 0 1 530.2386 22.67717 Tm (Page 6) Tj T* ET
+Q
+q
+1 0 0 1 45.68504 649.3701 cm
+q
+.184314 .333333 .592157 rg
+n 0 144 493.2283 -15 re f*
+1 1 1 rg
+n 0 129 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 114 493.2283 -15 re f*
+1 1 1 rg
+n 0 99 493.2283 -24 re f*
+.956863 .968627 .984314 rg
+n 0 75 493.2283 -15 re f*
+1 1 1 rg
+n 0 60 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 45 493.2283 -15 re f*
+1 1 1 rg
+n 0 30 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 15 493.2283 -15 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 132 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Function / operation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 132 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Example formula) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 132 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Use) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 132 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Example / note) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 117 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (IPMT) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 117 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=IPMT\(12%/12,1,60,-500000\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 117 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Interest portion of payment) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 117 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Loan schedule) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 102 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (PPMT) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 102 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=PPMT\(12%/12,1,60,-500000\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 102 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Principal portion of payment) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 102 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Loan schedule) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 87 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (NPV) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 87 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=NPV\(10%,B2:B6\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 78 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 10.9 Tm /F1 7.1 Tf 9 TL (Net present value of future cash) Tj T* (flows) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 87 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Initial outlay often handled separately) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (XNPV) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=XNPV\(10%,B2:B6,A2:A6\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (NPV using actual dates) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Financial modelling) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (IRR) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=IRR\(B2:B6\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Internal rate of return) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Periodic cash flows) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (XIRR) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=XIRR\(B2:B6,A2:A6\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (IRR using actual dates) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Irregular cash flows) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (SLN) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=SLN\(100000,10000,5\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Straight-line depreciation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (18,000 per year) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (DDB) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=DDB\(100000,10000,5,1\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Double-declining depreciation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Asset depreciation) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.780392 .827451 .890196 RG
+.3 w
+n 0 144 m 493.2283 144 l S
+n 0 129 m 0 144 l S
+n 0 0 m 0 129 l S
+n 493.2283 129 m 493.2283 144 l S
+n 493.2283 0 m 493.2283 129 l S
+n 0 0 m 493.2283 0 l S
+n 0 129 m 493.2283 129 l S
+n 82.20472 129 m 82.20472 144 l S
+n 235.2756 129 m 235.2756 144 l S
+n 357.1654 129 m 357.1654 144 l S
+n 0 114 m 493.2283 114 l S
+n 0 99 m 493.2283 99 l S
+n 0 75 m 493.2283 75 l S
+n 0 60 m 493.2283 60 l S
+n 0 45 m 493.2283 45 l S
+n 0 30 m 493.2283 30 l S
+n 0 15 m 493.2283 15 l S
+n 82.20472 0 m 82.20472 129 l S
+n 235.2756 0 m 235.2756 129 l S
+n 357.1654 0 m 357.1654 129 l S
+Q
+Q
+Q
+q
+1 0 0 1 45.68504 638.0315 cm
+Q
+q
+1 0 0 1 45.68504 610.0315 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (11. Math, Engineering and Base Conversion) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 332.0315 cm
+q
+.184314 .333333 .592157 rg
+n 0 270 493.2283 -15 re f*
+1 1 1 rg
+n 0 255 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 240 493.2283 -15 re f*
+1 1 1 rg
+n 0 225 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 210 493.2283 -15 re f*
+1 1 1 rg
+n 0 195 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 180 493.2283 -15 re f*
+1 1 1 rg
+n 0 165 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 150 493.2283 -15 re f*
+1 1 1 rg
+n 0 135 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 120 493.2283 -15 re f*
+1 1 1 rg
+n 0 105 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 90 493.2283 -15 re f*
+1 1 1 rg
+n 0 75 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 60 493.2283 -15 re f*
+1 1 1 rg
+n 0 45 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 30 493.2283 -15 re f*
+1 1 1 rg
+n 0 15 493.2283 -15 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 258 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Function / operation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 258 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Example formula) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 258 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Use) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 258 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Example / note) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 243 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (SIN) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 243 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=SIN\(RADIANS\(30\)\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 243 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Sine of 30 degrees) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 243 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (0.5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 228 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (COS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 228 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=COS\(0\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 228 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Cosine) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 228 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 213 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (TAN) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 213 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=TAN\(PI\(\)/4\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 213 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Tangent of pi/4 radians) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 213 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 198 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (RADIANS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 198 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=RADIANS\(180\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 198 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Degrees to radians) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 198 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (PI) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (DEGREES) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=DEGREES\(PI\(\)\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Radians to degrees) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 168 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (FACT) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 168 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=FACT\(5\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 168 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Factorial) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 168 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (120) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 153 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (COMBIN) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 153 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=COMBIN\(5,2\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 153 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Combinations) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 153 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 138 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (PERMUT) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 138 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=PERMUT\(5,2\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 138 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Permutations) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 138 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (20) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (GCD) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=GCD\(12,18\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Greatest common divisor) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 108 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (LCM) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 108 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=LCM\(4,6\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 108 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Least common multiple) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 108 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (12) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (CONVERT) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=CONVERT\(100,"cm","m"\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Converts units) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (1 metre) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 78 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (BIN2DEC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 78 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=BIN2DEC\("1010"\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 78 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Binary to decimal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 78 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (DEC2BIN) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=DEC2BIN\(10\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Decimal to binary) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (1010) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (HEX2DEC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=HEX2DEC\("FF"\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Hexadecimal to decimal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (255) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (DEC2HEX) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=DEC2HEX\(255\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Decimal to hexadecimal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (FF) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (COMPLEX) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=COMPLEX\(3,4\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Creates complex number) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (3+4i) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (IMABS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=IMABS\("3+4i"\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Magnitude of complex number) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (5) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.780392 .827451 .890196 RG
+.3 w
+n 0 270 m 493.2283 270 l S
+n 0 0 m 493.2283 0 l S
+n 0 0 m 0 270 l S
+n 493.2283 0 m 493.2283 270 l S
+n 0 255 m 493.2283 255 l S
+n 0 240 m 493.2283 240 l S
+n 0 225 m 493.2283 225 l S
+n 0 210 m 493.2283 210 l S
+n 0 195 m 493.2283 195 l S
+n 0 180 m 493.2283 180 l S
+n 0 165 m 493.2283 165 l S
+n 0 150 m 493.2283 150 l S
+n 0 135 m 493.2283 135 l S
+n 0 120 m 493.2283 120 l S
+n 0 105 m 493.2283 105 l S
+n 0 90 m 493.2283 90 l S
+n 0 75 m 493.2283 75 l S
+n 0 60 m 493.2283 60 l S
+n 0 45 m 493.2283 45 l S
+n 0 30 m 493.2283 30 l S
+n 0 15 m 493.2283 15 l S
+n 82.20472 0 m 82.20472 270 l S
+n 235.2756 0 m 235.2756 270 l S
+n 357.1654 0 m 357.1654 270 l S
+Q
+Q
+Q
+q
+1 0 0 1 45.68504 320.6929 cm
+Q
+q
+1 0 0 1 45.68504 292.6929 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (12. Database Functions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 179.6929 cm
+q
+.184314 .333333 .592157 rg
+n 0 105 493.2283 -15 re f*
+1 1 1 rg
+n 0 90 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 75 493.2283 -15 re f*
+1 1 1 rg
+n 0 60 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 45 493.2283 -15 re f*
+1 1 1 rg
+n 0 30 493.2283 -15 re f*
+.956863 .968627 .984314 rg
+n 0 15 493.2283 -15 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 93 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Function / operation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 93 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Example formula) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 93 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Use) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 93 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Example / note) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 78 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (DSUM) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 78 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=DSUM\(A1:C5,"Salary",E1:E2\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 78 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Sum records matching criteria) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 78 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Criteria range must include field header) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (DCOUNT) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=DCOUNT\(A1:C5,"Salary",E1:E2\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Count numeric matching records) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Database criteria) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (DCOUNTA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=DCOUNTA\(A1:C5,"Employee",E1:E2\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Count non-empty matching records) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Database criteria) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (DAVERAGE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=DAVERAGE\(A1:C5,"Salary",E1:E2\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Average matching records) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Database criteria) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (DMAX) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=DMAX\(A1:C5,"Salary",E1:E2\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Maximum matching record) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Database criteria) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (DMIN) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86.20472 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=DMIN\(A1:C5,"Salary",E1:E2\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 239.2756 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Minimum matching record) Tj T* ET
+Q
+Q
+q
+1 0 0 1 361.1654 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Database criteria) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.780392 .827451 .890196 RG
+.3 w
+n 0 105 m 493.2283 105 l S
+n 0 0 m 493.2283 0 l S
+n 0 0 m 0 105 l S
+n 493.2283 0 m 493.2283 105 l S
+n 0 90 m 493.2283 90 l S
+n 0 75 m 493.2283 75 l S
+n 0 60 m 493.2283 60 l S
+n 0 45 m 493.2283 45 l S
+n 0 30 m 493.2283 30 l S
+n 0 15 m 493.2283 15 l S
+n 82.20472 0 m 82.20472 105 l S
+n 235.2756 0 m 235.2756 105 l S
+n 357.1654 0 m 357.1654 105 l S
+Q
+Q
+Q
+q
+1 0 0 1 45.68504 168.3543 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.55 0.55 0.55 rg
+/gRLs0 gs
+BT
+/F2-0 16 Tf
+19.2 TL
+ET
+BT
+1 0 0 1 279.8538 30 Tm
+(Arav) Tj
+T*
+ET
+Q
+q
+0.333333 0.333333 0.333333 rg
+BT
+/F3-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 533.0436 14 Tm
+(by arav) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+35 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+36 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+37 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+38 0 obj
+<<
+/Contents 39 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.28
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 40 0 R
+/F2 8 0 R
+/F2-0 41 0 R
+/F3 10 0 R
+/F3-0 42 0 R
+/F4 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+39 0 obj
+<<
+/Length 9913
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 8 Tf 9.6 TL ET
+.4 .4 .4 rg
+BT 1 0 0 1 39.68504 22.67717 Tm (Excel Formula Master Handbook) Tj T* ET
+BT 1 0 0 1 530.2386 22.67717 Tm (Page 7) Tj T* ET
+Q
+q
+1 0 0 1 45.68504 773.3701 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (Practical Office Formulas) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.02362 561.3701 cm
+q
+.090196 .211765 .364706 rg
+n 0 204 493.2283 -17 re f*
+1 1 1 rg
+n 0 187 493.2283 -17 re f*
+.956863 .968627 .984314 rg
+n 0 170 493.2283 -17 re f*
+1 1 1 rg
+n 0 153 493.2283 -17 re f*
+.956863 .968627 .984314 rg
+n 0 136 493.2283 -17 re f*
+1 1 1 rg
+n 0 119 493.2283 -17 re f*
+.956863 .968627 .984314 rg
+n 0 102 493.2283 -17 re f*
+1 1 1 rg
+n 0 85 493.2283 -17 re f*
+.956863 .968627 .984314 rg
+n 0 68 493.2283 -17 re f*
+1 1 1 rg
+n 0 51 493.2283 -17 re f*
+.956863 .968627 .984314 rg
+n 0 34 493.2283 -17 re f*
+1 1 1 rg
+n 0 17 493.2283 -17 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 191 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Task) Tj T* ET
+Q
+Q
+q
+1 0 0 1 104.2126 191 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Formula) Tj T* ET
+Q
+Q
+q
+1 0 0 1 296.9685 191 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Explanation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 174 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Percentage) Tj T* ET
+Q
+Q
+q
+1 0 0 1 104.2126 174 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=B2/C2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 296.9685 174 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL -0.059951 Tw (Format as Percentage; if B2=450 and C2=500, result is 90%.) Tj T* 0 Tw ET
+Q
+Q
+q
+1 0 0 1 5 157 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (GST amount) Tj T* ET
+Q
+Q
+q
+1 0 0 1 104.2126 157 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=A2*18%) Tj T* ET
+Q
+Q
+q
+1 0 0 1 296.9685 157 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (For a price of ) Tj /F4 7.1 Tf 9 TL (n) Tj /F1 7.1 Tf 9 TL (1,000, GST at 18% is ) Tj /F4 7.1 Tf 9 TL (n) Tj /F1 7.1 Tf 9 TL (180.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 140 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Price including GST) Tj T* ET
+Q
+Q
+q
+1 0 0 1 104.2126 140 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=A2*\(1+18%\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 296.9685 140 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (For ) Tj /F4 7.1 Tf 9 TL (n) Tj /F1 7.1 Tf 9 TL (1,000 before GST, result is ) Tj /F4 7.1 Tf 9 TL (n) Tj /F1 7.1 Tf 9 TL (1,180.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Discounted price) Tj T* ET
+Q
+Q
+q
+1 0 0 1 104.2126 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=A2*\(1-B2\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 296.9685 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (A2=) Tj /F4 7.1 Tf 9 TL (n) Tj /F1 7.1 Tf 9 TL (2,000 and B2=10% gives ) Tj /F4 7.1 Tf 9 TL (n) Tj /F1 7.1 Tf 9 TL (1,800.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 106 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Profit) Tj T* ET
+Q
+Q
+q
+1 0 0 1 104.2126 106 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=C2-B2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 296.9685 106 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Selling price minus cost price.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 89 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Profit percentage) Tj T* ET
+Q
+Q
+q
+1 0 0 1 104.2126 89 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=\(C2-B2\)/B2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 296.9685 89 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Format as Percentage; based on cost.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 72 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Pass / Fail) Tj T* ET
+Q
+Q
+q
+1 0 0 1 104.2126 72 cm
+q
+BT 1 0 0 1 0 1.9 Tm 9 TL /F1 7.1 Tf 0 0 0 rg (=IF\(B2) Tj (>) Tj (=33,"Pass","Fail"\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 296.9685 72 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Assumes passing threshold is 33.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 55 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Duplicate ID) Tj T* ET
+Q
+Q
+q
+1 0 0 1 104.2126 55 cm
+q
+BT 1 0 0 1 0 1.9 Tm 9 TL /F1 7.1 Tf 0 0 0 rg (=IF\(COUNTIF\($A$2:$A$100,A2\)) Tj (>) Tj (1,"Duplicate","Unique"\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 296.9685 55 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Marks repeated IDs.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 38 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Lookup result) Tj T* ET
+Q
+Q
+q
+1 0 0 1 104.2126 38 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=XLOOKUP\(E2,A2:A100,C2:C100,"Not found"\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 296.9685 38 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Requires compatible modern Excel.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Running total) Tj T* ET
+Q
+Q
+q
+1 0 0 1 104.2126 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=SUM\($B$2:B2\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 296.9685 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Fill down to create cumulative total.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Hours across midnight) Tj T* ET
+Q
+Q
+q
+1 0 0 1 104.2126 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (=MOD\(B2-A2,1\)*24) Tj T* ET
+Q
+Q
+q
+1 0 0 1 296.9685 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Elapsed hours for shifts under 24 hours.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.705882 .776471 .905882 RG
+.35 w
+n 0 204 m 493.2283 204 l S
+n 0 0 m 493.2283 0 l S
+n 0 0 m 0 204 l S
+n 493.2283 0 m 493.2283 204 l S
+n 0 187 m 493.2283 187 l S
+n 0 170 m 493.2283 170 l S
+n 0 153 m 493.2283 153 l S
+n 0 136 m 493.2283 136 l S
+n 0 119 m 493.2283 119 l S
+n 0 102 m 493.2283 102 l S
+n 0 85 m 493.2283 85 l S
+n 0 68 m 493.2283 68 l S
+n 0 51 m 493.2283 51 l S
+n 0 34 m 493.2283 34 l S
+n 0 17 m 493.2283 17 l S
+n 99.2126 0 m 99.2126 204 l S
+n 291.9685 0 m 291.9685 204 l S
+Q
+Q
+Q
+q
+1 0 0 1 45.68504 544.3622 cm
+Q
+q
+1 0 0 1 45.68504 516.3622 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (Common Excel Errors) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.02362 355.3622 cm
+q
+.184314 .333333 .592157 rg
+n 0 153 493.2283 -17 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 140 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Error) Tj T* ET
+Q
+Q
+q
+1 0 0 1 104.2126 140 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL (Meaning / first check) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (#DIV/0!) Tj T* ET
+Q
+Q
+q
+1 0 0 1 104.2126 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Denominator is zero or blank.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 106 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (#N/A) Tj T* ET
+Q
+Q
+q
+1 0 0 1 104.2126 106 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Lookup value was not found or is unavailable.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 89 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (#NAME?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 104.2126 89 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Misspelled function/name or text without quotation marks.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 72 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (#VALUE!) Tj T* ET
+Q
+Q
+q
+1 0 0 1 104.2126 72 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Incorrect argument or data type.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 55 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (#REF!) Tj T* ET
+Q
+Q
+q
+1 0 0 1 104.2126 55 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Invalid cell reference, often after deleting cells.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 38 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (#NUM!) Tj T* ET
+Q
+Q
+q
+1 0 0 1 104.2126 38 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Invalid numeric argument or calculation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (#SPILL!) Tj T* ET
+Q
+Q
+q
+1 0 0 1 104.2126 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Cells needed for a dynamic-array result are blocked.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (#####) Tj T* ET
+Q
+Q
+q
+1 0 0 1 104.2126 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 7.1 Tf 9 TL (Often column too narrow; may also indicate date/time display issue.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.705882 .776471 .905882 RG
+.35 w
+n 0 153 m 493.2283 153 l S
+n 0 0 m 493.2283 0 l S
+n 0 0 m 0 153 l S
+n 493.2283 0 m 493.2283 153 l S
+n 0 136 m 493.2283 136 l S
+n 0 119 m 493.2283 119 l S
+n 0 102 m 493.2283 102 l S
+n 0 85 m 493.2283 85 l S
+n 0 68 m 493.2283 68 l S
+n 0 51 m 493.2283 51 l S
+n 0 34 m 493.2283 34 l S
+n 0 17 m 493.2283 17 l S
+n 99.2126 0 m 99.2126 153 l S
+Q
+Q
+Q
+q
+1 0 0 1 45.68504 341.189 cm
+Q
+q
+1 0 0 1 45.68504 321.189 cm
+q
+.184314 .333333 .592157 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Recommended teaching order) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 293.189 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.8 Tm /F1 8.2 Tf 11 TL (Basic operators ) Tj /F3 8.2 Tf 11 TL (\256) Tj /F1 8.2 Tf 11 TL ( SUM/AVERAGE/COUNT ) Tj /F3 8.2 Tf 11 TL (\256) Tj /F1 8.2 Tf 11 TL ( cell references ) Tj /F3 8.2 Tf 11 TL (\256) Tj /F1 8.2 Tf 11 TL ( IF/AND/OR ) Tj /F3 8.2 Tf 11 TL (\256) Tj /F1 8.2 Tf 11 TL ( text ) Tj /F3 8.2 Tf 11 TL (\256) Tj /F1 8.2 Tf 11 TL ( dates ) Tj /F3 8.2 Tf 11 TL (\256) Tj /F1 8.2 Tf 11 TL ( SUMIF/COUNTIF ) Tj /F3 8.2 Tf 11 TL (\256) Tj /F1 8.2 Tf 11 TL ( lookup ) Tj /F3 8.2 Tf 11 TL (\256) Tj /F1 8.2 Tf 11 TL ( error) Tj T* (handling ) Tj /F3 8.2 Tf 11 TL (\256) Tj /F1 8.2 Tf 11 TL ( dynamic arrays ) Tj /F3 8.2 Tf 11 TL (\256) Tj /F1 8.2 Tf 11 TL ( LET/LAMBDA ) Tj /F3 8.2 Tf 11 TL (\256) Tj /F1 8.2 Tf 11 TL ( financial/statistical/specialized functions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 262.189 cm
+q
+.356863 .607843 .835294 RG
+.6 w
+.917647 .94902 .972549 rg
+n -7 -7 517.9055 40 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 17 Tm /F1 9 Tf 13 TL -0.066374 Tw (This is a teaching handbook of commonly used and selected specialized functions, not a literal list of every function available in) Tj T* 0 Tw (every Excel edition.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.55 0.55 0.55 rg
+/gRLs0 gs
+BT
+/F2-0 16 Tf
+19.2 TL
+ET
+BT
+1 0 0 1 279.8538 30 Tm
+(Arav) Tj
+T*
+ET
+Q
+q
+0.333333 0.333333 0.333333 rg
+BT
+/F3-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 533.0436 14 Tm
+(by arav) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+40 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+41 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+42 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 43
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000155 00000 n 
+0000000204 00000 n 
+0000000533 00000 n 
+0000002746 00000 n 
+0000002853 00000 n 
+0000002960 00000 n 
+0000003072 00000 n 
+0000003184 00000 n 
+0000003262 00000 n 
+0000003378 00000 n 
+0000003462 00000 n 
+0000003795 00000 n 
+0000020870 00000 n 
+0000020978 00000 n 
+0000021091 00000 n 
+0000021207 00000 n 
+0000021540 00000 n 
+0000043053 00000 n 
+0000043161 00000 n 
+0000043274 00000 n 
+0000043390 00000 n 
+0000043723 00000 n 
+0000063989 00000 n 
+0000064097 00000 n 
+0000064210 00000 n 
+0000064326 00000 n 
+0000064659 00000 n 
+0000085827 00000 n 
+0000085935 00000 n 
+0000086048 00000 n 
+0000086164 00000 n 
+0000086497 00000 n 
+0000104548 00000 n 
+0000104656 00000 n 
+0000104769 00000 n 
+0000104885 00000 n 
+0000105218 00000 n 
+0000115184 00000 n 
+0000115292 00000 n 
+0000115405 00000 n 
+trailer
+<<
+/Size 43
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+115521
+%%EOF
+3 1 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+ /AF [44 0 R] /Names << /EmbeddedFiles << /Names [(Content Credentials) 44 0 R] >> >> >>
+endobj
+43 0 obj
+<< /Length 24278 /Type /EmbeddedFile /Subtype /application#2Fc2pa >>
+stream
+  ^÷jumb   jumdc2pa  Ä  ™ 8õqc2pa   ^∞jumb   Gjumdc2ma  Ä  ™ 8õqurn:c2pa:2eb76e5f-1216-4106-8cfb-8602f4929422   †jumb   )jumdc2as  Ä  ™ 8õqc2pa.assertions   	πjumb   #jumd@À2ªäHùß*÷ÙCic2pa.icon    bfdb image/svg+xml   	wbidb<svg width="716" height="716" viewBox="0 0 716 716" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M508.749 317.399C516.777 287.314 508.991 253.884 485.389 230.282C461.788 206.681 428.36 198.895 398.273 206.923C376.231 184.928 343.39 174.956 311.148 183.596C278.906 192.234 255.45 217.292 247.36 247.361C217.291 255.451 192.233 278.91 183.595 311.149C174.957 343.391 184.927 376.232 206.924 398.274C198.896 428.359 206.683 461.789 230.284 485.391C253.885 508.992 287.313 516.779 317.401 508.75C339.442 530.745 372.286 540.717 404.525 532.079C436.767 523.441 460.223 498.384 468.313 468.315C498.383 460.224 523.44 436.766 532.078 404.526C540.716 372.285 530.747 339.443 508.749 317.402V317.399ZM470.899 244.776C486.892 260.77 493.488 282.601 490.687 303.412L415.577 260.046C412.411 258.218 408.509 258.218 405.345 260.046L317.401 310.82V277.526C317.401 275.191 318.652 273.005 320.676 271.837L387.644 233.174C414.178 218.353 448.346 222.223 470.901 244.776H470.899ZM357.837 311.144L398.275 334.491V381.185L357.837 404.532L317.398 381.185V334.491L357.837 311.144ZM264.776 269.693C265.207 239.305 285.644 211.649 316.453 203.393C338.3 197.54 360.505 202.744 377.127 215.573L302.014 258.937C298.848 260.764 296.898 264.144 296.898 267.798V369.346L268.065 352.699C266.043 351.531 264.776 349.353 264.776 347.017V269.691V269.693ZM203.391 316.454C209.244 294.608 224.854 277.978 244.276 269.999V356.73C244.276 360.384 246.226 363.763 249.392 365.591L337.337 416.365L308.503 433.013C306.481 434.181 303.961 434.188 301.939 433.02L234.971 394.357C208.868 378.789 195.138 347.261 203.391 316.454ZM244.775 470.9C228.781 454.906 222.186 433.075 224.986 412.264L300.096 455.63C303.263 457.457 307.164 457.457 310.328 455.63L398.273 404.856V438.149C398.273 440.485 397.022 442.671 394.997 443.839L328.029 482.502C301.495 497.322 267.327 493.452 244.772 470.9H244.775ZM450.897 445.982C450.466 476.371 430.029 504.027 399.22 512.283C377.373 518.136 355.168 512.932 338.547 500.102L413.659 456.738C416.826 454.911 418.775 451.532 418.775 447.877V346.329L447.609 362.977C449.631 364.145 450.897 366.323 450.897 368.659V445.985V445.982ZM512.282 399.221C506.429 421.068 490.819 437.697 471.397 445.676V358.946C471.397 355.292 469.448 351.912 466.281 350.085L378.336 299.311L407.17 282.663C409.192 281.495 411.712 281.487 413.734 282.655L480.702 321.318C506.805 336.887 520.536 368.415 512.282 399.221Z" fill="black"/>
+</svg>
+  jumb   )jumdcbor  Ä  ™ 8õqc2pa.actions.v2    ﬂcbor¢gactionsÅ§factionlc2pa.createdqdigitalSourceTypexFhttp://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMediamsoftwareAgent¢dnameegpt-6gversionegpt-6dwhenx2026-11-21T13:26:36.060571ZrallActionsIncludedÙ   ¶jumb   (jumdcbor  Ä  ™ 8õqc2pa.hash.data    vcbor•jexclusionsÅ¢estart «…flength^÷dnamenjumbf manifestcalgfsha256dhashX >∂À`ß”±”jã‡Ÿ.ê‰{€2¶Mbd[7—©“ècpad@  âjumb   'jumdc2cl  Ä  ™ 8õqc2pa.claim.v2   Zcbor¶jinstanceIDx,xmp:iid:348c51dd-bfc8-4e4a-8e06-a32d17ddd08ctclaim_generator_info£dnamegChatGPTdicon¢curlx$self#jumbf=c2pa.assertions/c2pa.icondhashX u>=W1í≥®NÎL˚¡åt∑'w÷–6«e6„ÒkspecVersione2.2.0isignaturexMself#jumbf=/c2pa/urn:c2pa:2eb76e5f-1216-4106-8cfb-8602f4929422/c2pa.signaturercreated_assertionsÉ¢curlx$self#jumbf=c2pa.assertions/c2pa.icondhashX u>=W1í≥®NÎL˚¡åt∑'w÷–6«e6„Ò¢curlx*self#jumbf=c2pa.assertions/c2pa.actions.v2dhashX •¥Ìæ˘°‚—A5y”Õ7‘¯Ùuc$ Í„áÿùG¢ã¢curlx)self#jumbf=c2pa.assertions/c2pa.hash.datadhashX "Y–¯„¥õ‰*mı”4Ω„Õx9§‘£:q/≠Ò7[†˝hdc:titleiimage.pdfcalgfsha256  P8jumb   (jumdc2cs  Ä  ™ 8õqc2pa.signature   Pcbor“ÑYË¢8$!ÇYà0ÇÑ0Çl†•¸ÈpåÚÄ1ÓDds0	*ÜHÜ˜ 0J1!0USSL.com C2PA ICA R1 202510U
+SSL Corporation10	UUS0260422155105Z270423155104Z0G10	UUS10U
+OpenAI OpCo, LLC10UOpenAI Media Service0Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç ù∫jLMóÍÅâ∂—æ^XNr°ôﬂiq|Â!#”Å¢5úL£J<Ôn+øÊdÆ◊ÑKi$ZcœÍv
+ê≤e€|<ç·˛¡3wØ'ﬁ; :¥cáòÕMúø¥3D™T07F∏˝öyDsWU£c|›¨X/ÊzÆﬁ•ò√ìNHZ¯‡|§íK’l∫ ¬*»íæu‘îgµW™jöm00,◊Uaåj“S∂ x^ECûNí£ÄÒØ[—≤Î˛ãÔ∫◊7	ï´d-ô…áö¯ø.–ÁcÄñöy†7ì6£5…H…,òcÈDõ5¨πßSlúhs»
+9ÃIÛ £Çg0Çc0Uˇ0 0U#0Ä9=G‹óèØà{MsÕÂÓ§•*0o+c0a09+0Ü-http://crt-c2pa.ssl.com/SSL.com-C2PA-I-R1.cer0$+0Ühttp://ocsp-c2pa.ssl.com0U 00
++ÉË^0)U%"0 ++$
++ÉË^0UÛùM‘Àùr¯F
+vG•hOt0Uˇ¿0	+ÉË^
++ÉË^
+03	+ÉË^&$019bc403-5cd7-7669-afe6-fdb17177d4280	*ÜHÜ˜ Ç Ç8óle°7 Ò˘Ìt∫’¶[5ıglœ+fi@Õı¸“rVﬂ ï(Í¯fﬁBC=¯x†h(â≠µÓ¸ı2“å∏_ÁlÄnÎ[|ó[0Á.B∏∆pö˛˛ 	¨5F’†åIEÄ√∫íU«Zùo“Îÿyõñ:ºDê44}ÙA•3ó/.lQR
+m=I∞À«ÜXÃ‹Óû.È∆9∏3\ ⁄Ó W3T.p(J%)Oí|.“˙›g.zËPx9Q∫É:⁄à~ê#êíıbXöÂ¬®sÜû≈ÿqÈÔ\d{ëÓ7/vòxVdÁoB—}íºÖjomdÖÿˇ"ñÌπÔ≤–\Ñ}h]5[K±≈iHyÊhé†ƒaò:L¯¿$yÂ¶h‡Ô˝÷ê÷.-AduV_ìî∂°úä<∂¿ËmÛ≈CÁv,h§ÚÊÀãàïË{*r$Å=!∆cm/%Ä£ô[™)•˝GÍ·˜kÂ˚[P&m+°Ç]1ı›b®|2‹L«•,r0PÄWìÇ‚ËÆ≥ßØY4ÆrÔ*ùÆx¨‚3ÏSµ…ô“(®*7°N´¸Ã~Xõ'mE·¥*úΩ0W°1. .…‚»T€°íOæ$5ò˛/i‹∏M„ﬁ/Ëlı¡ä‚”˛rw”®+‘WóÆáÿ æì∂âYS0ÇO0Ç7†'+c»ÃM-õÑQrlÙú^2QÆﬁ0	*ÜHÜ˜ 0O1&0$USSL.com C2PA RSA Root CA 202510U
+SSL Corporation10	UUS0251222181730Z301221181730Z0J1!0USSL.com C2PA ICA R1 202510U
+SSL Corporation10	UUS0Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç À:¥Õ∏úÀ)V∏yß¯kˆ˘ÿèr√¶ò≠*A⁄a.GRΩtQæ]ÏzÇ∂¿˚˙Ë'•ãË˛bÛ`Ò_H ssï‰NnÃNz5ﬁX·◊Ç‹“GCwõﬂHàyü£9§YN^‡NGóÚuB◊v=∂§"‹Ì∆o‘rFå÷Q«µ∑zÚì˘#'’ÄPuäp†hÈÁºÑ(|ú*Í)©¿/˛…vFU∞/cÍ}ûÙ∞D§@ﬁ@6\DäTkWHˇªo§’Íé¬◊|ÿºŒiø† MìE;ô.y“œûü)ªFŸxc0ñ3Qú^ìm˙Â4JXx≥)l]|∏uï<ôw!{ÿ¥JÎ⁄Õ«
+÷…¢ﬁÆó≥∂Qñ⁄íõ√≤ªPƒ˛∂§Lï]-íjObÂ‡*˜i†ú’πì ⁄—ª^O∆Ø˘)L–…ÏÎÛ≤qP{v'hë˘Pà∏w5ÿÕ°·◊”)ÁJ∆áTY$¬g≤m	5€∫Œ∏F•‡ã⁄·ßüjŒ`“ƒ˜¡ﬁsyU‡p¥ÔÍÃ«˛vâNf
+ià-Ì√F¢*‰å‘úWF-Xb’ ®˙~¯¬ŸajÀ5]†ì£≤e®/ÌÔòÁ¸~∫HÙ™°q¸ìØÍßNsài’B¿˘ÑíÖOÀT≥=:¯›)ey Cûñ∏áXñ!Ô—ë{ £Ç&0Ç"0Uˇ0ˇ 0Uˇ0)U%"0 ++$
++ÉË^0U9=G‹óèØà{MsÕÂÓ§•*0U 00
++ÉË^0U#0Ä¸*Ju:Ä˙ôcìsWÏæì∞}√{0x+l0j0$+0Ühttp://ocsp-c2pa.ssl.com0B+0Ü6http://crt-c2pa.ssl.com/SSL.com-C2PA-Root-2025-RSA.cer0	*ÜHÜ˜ Ç Œ6˙>Ôñ6-éØUfˇ{+ kVıÀ≠Ω*Å≠•¶–M£>ì‰ìi’‰å®nÊ7T‚%úÏef(<3=¢ö¢ªÕgdJÁæt!°n√´&ƒ;,⁄Uπ˝GN‡çxõ7Éƒt;≈GaÔmAr§€]CS…ñNÂ‡:ﬂ®›.—ØXó÷ÁÙ_r#<kœΩ9´åì®èßvY>·íı˜Ÿ˚Fb´nn‘àF†≥/*j_•N⁄¯‘¸ÃŸ£<©wE
+¡˘òπ9ÀÃ°q¿*Çq”‰ˆ%‚Q!m÷ﬂ‰SçoJ}é^¿∫’wy!ÅzŒÌ˜õé∂≤äBVùèkA*˛kúãÓ£(œ_ÛÈ–d÷Ó¬âKÎíœıØ¬'M∏ë°7%ôÊ˝Ä‹Ùº«7{æ¥-gX/Á√≥ãqÂDz0∂•≤u>[#~;”T¶:π«Ã3’j5zÅv/˛W⁄i¯>?ÔTèã{F√cû˙Ìƒ/pÑ+ˆVÇÙßÀ$◊l^${:Ω©X;i≥úè“ptˇãn&ª√´E«SñúGµ∆F´^ı¸àãh£5Â|jïeµ´Îπˇ∫∏‡õJG≤ŒÏ/â}ÓØúMƒ…Œı2=è˜&4˛"ãzÌ˘^^g_Q[€$V˚—Y°∑ﬁöf	∂—Ü.˙}~ïyõDf|6Öˆı£gsigTst2°itstTokensÅ°cvalYã0Çá	*ÜHÜ˜†Çx0Çt10	`ÜHe 0Åá*ÜHÜ˜	†xv0t
++Éø0010	`ÜHe  h•Ω‰£˛OD ª˘∫ö™ÆÒ∏IÖƒWòj|ñaΩU)∆	 ©)Ò±1@¡K20261121132640.870826Z0ÄogvÀMÎ††Çf0Çˆ0Ç^†a€F(2äåçJ∑ø˛`„l?q∑0	*ÜHÜ˜ 0{10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Issuing CA0260408174626Z370709174626Z0u10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Leaf0Ç¢0	*ÜHÜ˜ Çè 0ÇäÇÅ Í ≈≠î˝˝'ü«xßa ˇ)a*˚°àÕ_®¢óùâ/ãë»º∞ñê=UÇ¡ñé6j≠âiËê€,D2É®
+ÕwÂ5ËÓ®d[˛∏‡éùÁ °(√5›ß7È"˜	Móö¥Ñs¿.|©PG(†¥i∞á)zY˛5B˘ŸiRJ 7ÚhÃÒ-∑Çñ KF\=§Ü∏KEf8¢NM' ï∫uÃNájüt√ $_ƒ~\Æ˛ÛïÌ ëﬂ<ıÜõ*^÷–›…˙»M√…ÑZI,‰8s`R∏LÓ∆Û∑∂ÿ›j©Œ ∫]÷ƒ\5dÚ#S?bée]p+‘…k	ÅERËWÌZF]⁄]vú%yhÉQ§òÑuëròUˇÿ„Cb±Ìig'Aº≈èÚj+ÉIË·-4ª9ØgΩ¥ï»≤ΩEgÕràî_UK,≠ØÌ•Ù$Øw>ÉädQèëå9ñK∞=Æ˙ô°>å=æ6°.ıcµ £x0v0Uˇ0 0Uˇ¿0U%ˇ0
++0U§'TÇ¢äÄ{=≈ÜÕ?pŸ¬ÉôQx0U#0ÄÚ∞«T=#CÖ‹ s–rÄ=∏®0	*ÜHÜ˜ ÇÅ  ˚$OA¿¿ºò≤2 ç ôH5OƒFV~ß>?∂•#˘*H>‡QùE@x¡ªÉNìP…õ'ñhﬂMŒÚˆ“y´ÔÍ¡⁄?ıòYÊpÕâÙÓGã™ÀÏˇå~·FÿëÊú∏‰4Fˇa“x¯}89„RÌ_fËs¿ r;‰®´éÜ*£7!˘;ﬂ{\TÿL«j*KœCt`Äs£…—wØá©˝µ±Ñjnøà*Œö°ö´¢ûÇH7≈cQó€R|og…iB’œı˚≠^ãê‚‡y<.Éjû•Ë%AèÖÌ‰¡†:ç˛ùRPÔáﬁ·dÕU˘! ﬂ∂)Ôü'n—∫4F´J"OÁbw›E#›a-¬1)èƒπ~y´¥W‘¡Ïœ·\{eI∞ÎM´§«'@N¶¥µèœ|√¥Cßv”^0cÓ®Æ5(td´Z5„[/:>N
+a÷0MCõˇN.∆!π>:, W0ujédK¢–	—◊†g&Amg¯pv∏%&V˘ë&'√KI0Ç~0Çf†ç ∆≈≈⁄∞ºÒNï•Íº0	*ÜHÜ˜ 0x10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Root CA0 260408174626Z21260409174626Z0{10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Issuing CA0Ç¢0	*ÜHÜ˜ Çè 0ÇäÇÅ âº‘π‚»°æaªﬁ<df~ßæúm”©0&<Ù‡k 9ﬂï4Ì©¢eH€7Ü2ÉéÃ
+J†¿Û4l†¿òÕ+ü•ÙÀ|Ÿ&ﬁ~…M¢Ôc[ëÊˆY®“˙N˘Ÿ8+ZÕ`ZòÅò®◊S∆„÷.H¨CW	ÈîÚG˘lEä`∑˜Æ/^¢5NÖ8Öiü4ù–MÿC=Õ4m¸cì¸”pªJËvËjNfI†Ì¸¯æÔö∑®w¨Ô∑8Ãπ‘*3ƒv÷@wÀ˛«]-@”ﬁã<¿÷@AôÀî?,} kR¸û P∑	GE·#U˙±OoTòïÙ}∫¯h·"z‹äëCã∂.C±b†æ $é.Ôø§—MË∏?1œ&=≈ PÍÚŸ$ dÌ’sû.px™ﬁV<˘‘Ä¢Ë≠Øˆ˚®£\Àh´D€0wÚƒ4tkUm∆á˚Ú2<ûqE˜ÏP˚˛÷1&ª–ƒMa‚B€Ø√+n_+Ê‚∞Ôç\DÕ¿s}è¢ÈΩmÇº%eÑ0iÌ £{0y0Uˇ0ˇ 0Uˇ0U%0
++0UÚ∞«T=#CÖ‹ s–rÄ=∏®0U#0ÄX¬@†<Gv+®Ên®ëñéñ»∑Ÿ‰0	*ÜHÜ˜ Ç íÏ7\ﬁlÎd⁄Æ°	0rÆ‹rı;ºz=÷∆·/ˆÉ3}ËW@NLô™k‘ôŸã€k÷L¯ –Y3”°†8\#àD$˚á·ˆì'º°ÌL_g]ˇ5´1“Ï{‘@C7O¬Ñú∫d»∞¢~ö6¯·–Ç≥PC≤‡UΩÄî»YRNJtﬁ]«EXõ∑˙0™;‹Gº’.,π8c,yZ∑›U≠=BﬂàœÒh˛s ‘Z∑ﬁ$óë¿Ág˛‹¶
+Û•F≥QœçØ_„»∏@∆Ω„˘÷Kq–d]Âd¬K¿^w—=«[ûœ{˝îîÁKQ⁄˚dÙ´5îÒˆæ~+›≤ö=P›P√ñdém´sü(;w–óÌoEO±3._FÎÉ∂©aº◊ÇÆ¯Äo¬„i0Êm|:Dí+ò-Ø‹4¡æ•*HÁá»ﬁ8µ3 „ÑPpÒ≤KﬁçOˆë‹_Ö˙ÒÊ—◊ ßÓ¥üˆ!x)Å„pXwÜ§:KóÉFË⁄¬jv…©À!Eæe±†Ü.ÄºYKMõCm¥◊Ñ‡¸’»aêCéjù√Ò!<Ñ]˛;÷ÿ#9E_q˙2˝†ÄïDµO Â√t˝‚NárÜÙQáΩ‘µ+5lí§;kjù∫˝¿;úv¬’9I⁄„î>Pj◊L‚âaùÔÎœ≈√@npz80ÇÊ0ÇŒ†P;lâå$3,è˜Oé˚}ÇÏ0	*ÜHÜ˜ 0x10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Root CA0 260408174625Z21260409174625Z0x10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Root CA0Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç ˆíÈ“∫≠û·¨u®Vÿ™±≥jí_ñyıí∑-$¯ø¿Ø`æ¡öÕyö‹lö˛6ö¡ò§?‰,ù∫••Ps≥
+¬˘ÛƒI/xΩ“ÏºÁ?Ùõ—Ú†a¢,â% Q˘%ú“∆/ÙâƒA˛&”m5ÕÏª5`@®ÖQæˆÓêòÒ*ÿùzkjŸ.ŸcÛÂ\)≈Ü"¡ähÕÎ8û©Pñ[#C˚8ˇB|;:°Q/%…H‹1ˇPrÓ|°wÕoÅaÛ?ønË“±¶6‰k2˚˛w®^õ\››1êLéeˇÅÀAŒ(1S CŒHn}÷d≥)‰¥.:∑TZrVWÛ®j}ÔÊa›e»H	Iô2t
+¢Ã›ì S¨#ΩÇÖ ±ÔæÌ°w Ó:F3¢ûÏØÈ1f¥fo≤âì†~ï!ŒA¯^éÈÕπ¿’3]x––'1œP0rs⁄j¬¿ìœ≠‹dáˆ˚Nàvı>Ôˇí,ôw.ˆ‹ò∂ù	:˝Ù	«è_ZÈ~H	+µäÉÚ[<,Øë¢ùA∑Rh—ø∞¿⁄O`ΩÓ)™Ìáçq\(åçà£%cEÿ¸{aèlFT;\…∞ÇØÉ»±#?ü[Ó¢◊Tµ*SÆªÖ€¶˙óûÏÑârÛz@…∂ÖXG[Ò$a9¢Lﬁÿ∆®"Úûø[L,À £f0d0Uˇ0ˇ0Uˇ0UX¬@†<Gv+®Ên®ëñéñ»∑Ÿ‰0U#0ÄX¬@†<Gv+®Ên®ëñéñ»∑Ÿ‰0	*ÜHÜ˜ Ç X¯ÅëòÚla˛»Ü÷[Ñ¶÷æ∏¶]]IÀ∏°)Õ-ù∏X˘Ñâ=<¯o’j¥*¢UígÅô^µT˚öFÄ„Q S¿¡àWﬁÔÇU~„Ù}Î&¸Éˇ!®¡¨ﬁ€ì´Õ–0v:ìùŒ™g9.Ätﬂm~v/ÈÍPAã8=lÂ‡>Ó/€dT6^æbE∂—!¥Ä<åÎ⁄ú÷J©’Te[k—X~¿IáÎÎK_í;î◊öÜˆ°YŒG8¨√∞td—¿R;°±{(k·ió¯(;'ˇÆ§û˜eÀ†ÙÍπΩîŒD‚ò±
+HhÓU©!•`è˛ ÷}—{Ü úÛ®x–∆⁄@.»Å\b®*¡˚VÁyéØÏÂ€”p˛FÃc®dÒ<ÈØ•dº^øÖ-∞Œ„π”§◊RªpãÜù˚.ø
+ˆ“U+#B+C\Ï°Ça?œqÌ∞˜óÈ‰À¬<¸¨w∑∂‹ ¡LÈâ≤≤/√~ídúµÑﬁÃñ˝â∞KµC}“È≠Ü˝Ÿ-üΩ Ó¿¥GV#|HëNgâ {b¡…^UÒˆ∆Q#WoÔáæ Fyæî±» (ùïäà&UfRÔŸK∫®ZÈ¬,≠ü√\BÛ°ı'dyqå
+Zû˝π˘Eyp·jµ7ñéX˝EøT%åÉ=Ÿ&3#–Xw¶∏1Çh0Çd0Åì0{10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Issuing CAa€F(2äåçJ∑ø˛`„l?q∑0	`ÜHe †Ç%0	*ÜHÜ˜	1*ÜHÜ˜	0/	*ÜHÜ˜	1" 0
+¥*)òÕƒÔ
+ˇå–w•°i‡»õüå◊÷M6Ñ…•0Å’*ÜHÜ˜	/1Å≈0Å¬0Åø0Åº ΩOπ≤êLÅ6gànÔA·m˛Ÿ"ùø[íJ–¢ƒ`F"z0Åó0§}0{10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Issuing CAa€F(2äåçJ∑ø˛`„l?q∑0	*ÜHÜ˜ ÇÄ’»ƒª⁄…#“ñb¢W˜ÍW«{øª“\zæ–dXö3V"ñ8:fzQ•ﬂè–ù˘Ó?=f
+&6˘ÊÀıG»êÈ®«Ë¶E•?¨¶å¥ÃI^9VÓù¢ÆÏãˇΩ"dÓ€ÕâPÈÚ}x≠∏]]ik'ΩÊCç4∂Úˇq‹ñø^ãw§ _mÑT¯Àzõk∫Ñ
+/ë∂.ÁúAQY/ ÚÄ
+ôüJ\U‡√Ày5[ıﬂ£§©Q%…lz‚z|Ÿ//∂¢û†‰öòs£ıÅEìçËT=éÄ^{zõ=-k‹ÉO∆Aü–∆ç/é_d˙€≥˛"ø˚L7®}«É ’!≤ñ*`Zei50x;Pq„µ%è:Xg9ﬁìØU/,1Mx	ñu˝Ø‰,aÍé ‚OT'õ∫{HT@ôÇjﬂü◊nePµπ∞À;{˝õL	Ÿ~ ÷∏î˝ê£yWeóÑi’F˝s€=>Íµ‹/5∑Ã™Ut≈erVals°hocspValsÅY◊0Ç”
+ †ÇÃ0Ç»	+0Çπ0Çµ0ÅÈ¢Àcól‚ù≠‡-e&¶:tiô20261121131932Z0Åò0Åï0I0	+ ﬂÇ7S^Sÿ3±‡=$5ÒuÊ·
+9=G‹óèØà{MsÕÂÓ§•*•¸ÈpåÚÄ1ÓDdsÄ 20261121131932Z†20261128131931Z°"0 0	+020161123131932Z°#0!0	+0r‘AœΩÍŒ˜Ryçdwƒ0	*ÜHÜ˜ ÇÅ cõ»Ê~f|ø≈‹Y÷Ü3 Ïøf÷R‹I©îv¡ÂΩºóo~,= h],gôäáqô‡"Ê_‡6Ü∫ñÊÎF«¨˜—WÇK®íUµ~í6ãõ∫Ÿ˚b°9>Ëaøt)◊8K∑\¥r.·
+;;µÕ@jµKÓû,aüªVæ´ŒñîÃ<KHVÀªË5ˇ;¡7,ú©ﬁ¡√xÈÎLùóÂx•ªñY;Ë^a±2M∞#˚∂ÄeÓã(Ì J^LÈ]8s@çûÜ∑ÃèJÎnÏq⁄b§ÇÌΩ(˚≤A:Ô∑®OÑ®Éœ!u{<Ídã‘⁄]≈Q@Ò-ù°kòU8å·af”åÖ¨∑lYΩπuÁ¬»6;{2ols)±ﬁaF⁄3Ùeàﬁê“[ﬁ±|å∑8ö¢Éi ¸‘ÚÊ»ÓØ ¥NŒ KQ*øØO∑r|±îÉÂV®GÂ¸úÕ¸D‡œƒ]_`Ωù3Æ˜TtvÚä§s<,Íå∑¸∞ÒNXˆßiÔ`¥›l¬'†Ç10Ç-0Ç)0Ç†97«k˜”!òS§¢°îR/0	*ÜHÜ˜ 0J1!0USSL.com C2PA ICA R1 202510U
+SSL Corporation10	UUS0261104111802Z271104111801Z0M10	UUS10U
+SSl Corp1+0)U"SSL.com C2PA ICA R1 OCSP Responder0Ç¢0	*ÜHÜ˜ Çè 0ÇäÇÅ ≤›W §¢∫øºÇ	≤Ï~ö|j>˝&ùˆ#zdÍµ9´3±ÀùüüLK≥/„æÁ}VŒµXl°/È@d¸·∞ıuî€ßæjH*àV#ïMJ˙ö,M/µp˜é&ÆR⁄8Ê<∫<o9î‡£ShoñyC]ÑÙ†9·Jìp¨ÖÜΩµ?°Æìi_⁄"]iÈ7• 5æk©´g¯  5JD?y¨JtyøüSj±øÏ∏*—G¨ø±ªÅhïHf"c9‹Ï⁄ÀrŸ√◊IÛËÌG.VòÅ~œÔÀÛóN¶zÊQÛm‡bÆ‘éê·Eúˆ∆GËÈâ„W„Ä2JTååy4jµ≠î.ã»¿¬§Üáá¿•_ÇÖ9hˇıÙòÀY†¬¨:ùïà"fn,_ÀAqÒY4≤88…˜Åˇ,GQ( •ö H±¥J=Cà ¡?ˆU"ƒÚ£Y˜≤÷ ˘dK˝ƒ®N4°^◊aÂ‡m¶πiõE°ß‘èH≥≈æ¡õ £Åá0ÅÑ0Uˇ0 0U#0Ä9=G‹óèØà{MsÕÂÓ§•*0	+0 0U%0
++	0UÀcól‚ù≠‡-e&¶:tiô0UˇÄ0	*ÜHÜ˜ Ç 
+r—⁄Z>t["_© /˚Ü2º&Í≈x“F}p91‹ádcwÏÜûÇ%z—æ√«∏ÆL“FåJÍ”•øØÅ@–Ò˝$~tñÜòâ; ﬁc˚'ÙsqH“PõÃhæÓÁmW'°Ÿñ˘ƒ@ÜÉ›ª~ÇÃ8–¥ñ»±rÇ@`åöÙq“Vòä
+å°+L8 Ö™ΩïöæﬁáÛ{ºa<f.√**(<uI\√ãV¨%∂3«!'y(’?ypπNŸÑ.ûÌu∞ƒ	‘Ó˙|Êgkñ€M†F	H√	Ô4—8%v»z@É∫a¸|Éº‚,„‚Yû∞VÖ6˝˘Î¢!ká-â3("Ö3zñWq\Aπo¬dFÈ[Ü“>ç~Ù˝}ÃîA÷™50ÃM"zÓÖÚÆ#ÿ€`ÉÏπÙ†KîÏ	Ú=S“ømjåˇø»÷∏Íê<UmiÓ¨kPIÿe¬⁄/ÚaË9í‡;O“ÒﬂΩ“
+∏ã«ïtçPogZÒ∑f}∆ÿ=®/]êvä∞Ü<â¢6%ß5,®$ø–Q~·≈M”$R>•≠ﬂ¢¯gÓÓ˝˙ôíÛ:˛i(ÙeI÷`_˚ ◊‡ËPﬁÅ<	fÄ/à
+'U¥˚¶û*xW˘CÜ'Bx˛â◊≈Ï=.Ç¸eôkZYBÉÒ#Ü”≠≠%&hp¡‘ÿ˚'®ªLÏ¶ƒ∏5∑‹ïcpadY&u                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     ˆY 1”º–‹öÔ≠qÙ\O}Œ∂j..æµ¯¥Ç]˝‰±Ï˘f4¯]-"--T¶0H+¸j+•–¶P=fÁB;Hù`yæñ õ'(>ÁZ™[PPˆ˘^>≈]¨HßÈı¯˜(ªÜ1-ÆÖ>)f€´1isÑ°ﬁ«|˘¥lÀùÎ∂ƒñÙ≠ÖgÀ ¶r|évﬁ∫ÿ4&õ]k:QáG˛nj¬h˚ºòæ¯Û=S‡"§@Ùœ ◊UBa7·E]oEi?ÜV‰ÍèNëñÎΩ£±†—Ù ~∂~?b≥Am»;Y«aß·JÓœP5Òî¶∂a7Î◊’q∆™á‰ùç¨ènE•2ÉÙL«∑|
+endstream
+endobj
+44 0 obj
+<< /AFRelationship /C2PA_Manifest /Desc (Content Credentials) /F (Content Credentials) /EF << /F 43 0 R >> /Subtype (application/c2pa) /Type /Filespec /UF (Content Credentials) >>
+endobj
+xref
+3 1
+0000116461 00001 n 
+43 2
+0000116596 00000 n 
+0000140977 00000 n 
+trailer
+<< /Size 45 /Root 3 1 R /Prev 115521 >>
+startxref
+141173
+%%EOF
